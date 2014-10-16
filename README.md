@@ -53,6 +53,13 @@
 ### 技术博客
 * ACM
 	* [kuangbin博客](http://www.kuangbin.net/)
+* 编程和技术
+	* [酷壳](http://coolshell.cn/)
+	* [BYVoid](http://www.byvoid.com/blog/)
+	* [Vamei](http://www.cnblogs.com/vamei/)
+* 数学
+	* [Matrix67](http://www.matrix67.com/blog/)
+
 
 
 
