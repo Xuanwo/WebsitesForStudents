@@ -42,7 +42,7 @@
 
 ---	
 ## 专业无关类
-
+	
 ### 常用工具
 
 * 在线编译工具
@@ -57,6 +57,7 @@
 
 
 ## 专业相关类
+
 
 ### 工学
 
@@ -77,3 +78,8 @@
 	* [Github](https://github.com/)
 	* [Bitbucket](https://bitbucket.org)
 	* [Google Code](https://code.google.com/)
+
+### 理学
+
+* 数论
+	* [数列百科(OEIS)](http://oeis.org/)
