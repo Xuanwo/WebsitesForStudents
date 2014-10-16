@@ -13,6 +13,13 @@
 - 原则上按专业学科进行分类，难以分类的进入通用类。
 - 类别较多，请多多使用Ctrl+F。
 
+### 交流
+欢迎大家将珍藏已久的好网站共享出来，您可以：
+
+* 使用 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues) 以及 [Pull Request](https://github.com/Xuanwo/WebsitesForStudents/pulls)
+
+贡献者名单: https://github.com/Xuanwo/WebsitesForStudents/graphs/contributors
+
 ## 目录
 
 * [专业无关类](#专业无关类)
