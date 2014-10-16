@@ -15,7 +15,8 @@
 
 ## 目录
 * [专业无关类]
-	* [通用](#通用)
+	* [常用工具](#常用工具)
+	* [网络教育](#网络教育)
 * [专业相关类]
 	* [哲学]
 	* [经济学]
@@ -24,12 +25,30 @@
 	* [教育学]
 	* [文学]
 	* [理学]
-	* [工学]
+	* [工学](#工学)
 	* [农学]
 	* [医学]
 	* [管理学]
 
 ---	
 ## 专业无关类
-### 通用
-* [codepad.org](http://codepad.org/)
+### 常用工具
+* 在线编译工具
+	* [codepad.org](http://codepad.org/)
+### 网络教育
+
+
+
+## 专业相关类
+### 工学
+* 在线OJ
+	* [POJ](http://poj.org/)
+	* [OpenJudge](http://openjudge.cn/)
+	* [杭电](http://acm.hdu.edu.cn/)
+	* [UVa](http://uva.onlinejudge.org/)
+	* [Codeforces](http://codeforces.com/)
+	* [ZOJ](http://acm.zju.edu.cn/onlinejudge/)
+	* [LeetCode](https://oj.leetcode.com/)
+	* [CodeVS](http://codevs.cn/)
+* 在线文档
+	* [常用API文档索引](http://tool.oschina.net/apidocs)
