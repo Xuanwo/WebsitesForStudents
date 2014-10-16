@@ -76,6 +76,18 @@
 * 数学
 	* [Matrix67](http://www.matrix67.com/blog/)
 
+### 业界资讯
+
+* IT业界
+	* [cnBeta](http://www.cnbeta.com/)
+	* [Engadget](http://cn.engadget.com/)
+
+### 个人管理
+
+* 时间管理
+	* [褪墨](http://www.mifengtd.cn/)
+
+
 
 ## 专业相关类
 
@@ -95,10 +107,11 @@
 * 在线文档
 	* [常用API文档索引](http://tool.oschina.net/apidocs)
 
-* 在线协作
+* 开源世界
 	* [Github](https://github.com/)
 	* [Bitbucket](https://bitbucket.org)
 	* [Google Code](https://code.google.com/)
+	* [开源中国](http://www.oschina.net/)
 
 
 ### 理学
