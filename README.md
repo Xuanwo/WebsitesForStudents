@@ -46,18 +46,33 @@
 	
 ### 常用工具
 
-* 在线编译工具
-	* [codepad.org](http://codepad.org/)
+* 文档类工具
+	* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
+	
+* 编程用工具
+	* [在线编译(codepad.org)](http://codepad.org/)
 
 ### 网络教育
 
+* MOOC
+	* [Coursera](https://www.coursera.org/)
+	* [Udacity](https://www.udacity.com/)
+	* [edX](https://www.edx.org/)
+	* [慕课](http://www.imooc.com/)
+	* [学堂在线](https://xuetangx.com/)
+	* [MOOC学院](http://mooc.guokr.com/)
+	* [中国大学MOOC](http://www.icourse163.org/)
+
 ### 技术博客
+
 * ACM
 	* [kuangbin博客](http://www.kuangbin.net/)
-* 编程和技术
+
+* 编程
 	* [酷壳](http://coolshell.cn/)
 	* [BYVoid](http://www.byvoid.com/blog/)
 	* [Vamei](http://www.cnblogs.com/vamei/)
+
 * 数学
 	* [Matrix67](http://www.matrix67.com/blog/)
 
