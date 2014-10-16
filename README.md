@@ -44,6 +44,8 @@
 ### 网络教育
 
 ### 技术博客
+* ACM
+	* [kuangbin博客](http://www.kuangbin.net/)
 
 
 
@@ -63,3 +65,8 @@
 
 * 在线文档
 	* [常用API文档索引](http://tool.oschina.net/apidocs)
+
+* 在线协作
+	* [Github](https://github.com/)
+	* [Bitbucket](https://bitbucket.org)
+	* [Google Code](https://code.google.com/)
