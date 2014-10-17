@@ -51,8 +51,21 @@
 	* [VPN Gate](http://www.vpngate.net/en/)
 
 * 文档类工具
-	* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
+	* PDF
+		* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
+		* [PDF合并](http://www.pdfmerge.com/)
 	
+	* Markdown
+		* [StackEdit](https://stackedit.io/)
+	
+* team communication
+	* [slack](https://slack.com/)
+	* [GITTER](https://gitter.im/)
+
+* RSS Tools
+	* [feedly](http://feedly.com/)
+
+
 * 编程用工具
 	* [在线编译(codepad.org)](http://codepad.org/)
 
