@@ -69,6 +69,8 @@
 
 * 编程用工具
 	* [在线编译(codepad.org)](http://codepad.org/)
+	* [Online Code Editor(Codeanywhere)](https://codeanywhere.net/)
+	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
 
 ### 网络教育
 
@@ -80,6 +82,7 @@
 	* [学堂在线](https://xuetangx.com/)
 	* [MOOC学院](http://mooc.guokr.com/)
 	* [中国大学MOOC](http://www.icourse163.org/)
+	* [codecademy](http://www.codecademy.com/)
 
 ### 技术博客
 
