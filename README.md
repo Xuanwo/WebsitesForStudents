@@ -46,6 +46,10 @@
 	
 ### 常用工具
 
+* 翻墙
+	* [Lantern](https://getlantern.org/)
+	* [VPN Gate](http://www.vpngate.net/en/)
+
 * 文档类工具
 	* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
 	
