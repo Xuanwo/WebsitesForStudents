@@ -64,6 +64,7 @@
 
 * RSS Tools
 	* [feedly](http://feedly.com/)
+	* [G2Reader](https://www.g2reader.com)
 
 
 * 编程用工具
@@ -104,7 +105,9 @@
 * 时间管理
 	* [褪墨](http://www.mifengtd.cn/)
 
-
+* TODO/Task List
+	* [Google Keep](https://keep.google.com/)
+	* [wunderlist](https://www.wunderlist.com/)
 
 ## 专业相关类
 
