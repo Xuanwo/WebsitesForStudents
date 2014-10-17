@@ -46,11 +46,31 @@
 	
 ### 常用工具
 
+* 翻墙
+	* [Lantern](https://getlantern.org/)
+	* [VPN Gate](http://www.vpngate.net/en/)
+
 * 文档类工具
-	* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
+	* PDF
+		* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
+		* [PDF合并](http://www.pdfmerge.com/)
 	
+	* Markdown
+		* [StackEdit](https://stackedit.io/)
+	
+* team communication
+	* [slack](https://slack.com/)
+	* [GITTER](https://gitter.im/)
+
+* RSS Tools
+	* [feedly](http://feedly.com/)
+	* [G2Reader](https://www.g2reader.com)
+
+
 * 编程用工具
 	* [在线编译(codepad.org)](http://codepad.org/)
+	* [Online Code Editor(Codeanywhere)](https://codeanywhere.net/)
+	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
 
 ### 网络教育
 
@@ -62,6 +82,7 @@
 	* [学堂在线](https://xuetangx.com/)
 	* [MOOC学院](http://mooc.guokr.com/)
 	* [中国大学MOOC](http://www.icourse163.org/)
+	* [codecademy](http://www.codecademy.com/)
 
 ### 技术博客
 
@@ -87,7 +108,9 @@
 * 时间管理
 	* [褪墨](http://www.mifengtd.cn/)
 
-
+* TODO/Task List
+	* [Google Keep](https://keep.google.com/)
+	* [wunderlist](https://www.wunderlist.com/)
 
 ## 专业相关类
 
