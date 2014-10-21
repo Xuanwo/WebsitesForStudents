@@ -58,23 +58,23 @@
 	* Markdown
 		* [StackEdit](https://stackedit.io/)
 	
-* team communication
+* 团队协作
 	* [slack](https://slack.com/)
 	* [GITTER](https://gitter.im/)
 
-* RSS Tools
+* RSS工具
 	* [feedly](http://feedly.com/)
 	* [G2Reader](https://www.g2reader.com)
 
 
-* 编程用工具
+* 编程工具
 	* [在线编译(codepad.org)](http://codepad.org/)
 	* [Online Code Editor(Codeanywhere)](https://codeanywhere.net/)
 	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
 
 ### 网络教育
 
-* MOOC
+* 互动式教育
 	* [Coursera](https://www.coursera.org/)
 	* [Udacity](https://www.udacity.com/)
 	* [edX](https://www.edx.org/)
@@ -82,7 +82,17 @@
 	* [学堂在线](https://xuetangx.com/)
 	* [MOOC学院](http://mooc.guokr.com/)
 	* [中国大学MOOC](http://www.icourse163.org/)
-	* [codecademy](http://www.codecademy.com/)
+	* [可汗学院](https://www.khanacademy.org/)
+	* [网易云课堂](http://study.163.com/)
+	* [Udemy](https://www.udemy.com/)
+	* [novoED](https://novoed.com/)
+* 在线编程练习
+	* [Codecademy](http://www.codecademy.com/)
+	* [Code School](https://www.codeschool.com/)
+	* [bento](https://www.bento.io/)
+* 视频教学
+	* [lynda](http://www.lynda.com/)
+	* [网易公开课](http://open.163.com/)
 
 ### 技术博客
 
