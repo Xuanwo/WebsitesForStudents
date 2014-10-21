@@ -154,11 +154,14 @@
 * 在线文档
 	* [常用API文档索引](http://tool.oschina.net/apidocs)
 
-* 开源世界
+* 开源世界 & 代码托管
 	* [Github](https://github.com/)
 	* [Bitbucket](https://bitbucket.org)
 	* [Google Code](https://code.google.com/)
 	* [开源中国](http://www.oschina.net/)
+	* [CODING](https://coding.net/home.html)
+	* [GitCafe](https://gitcafe.com/)
+	* [CSDN](http://code.csdn.net/)
 
 
 ### 理学
