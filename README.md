@@ -103,6 +103,13 @@
 	* [酷壳](http://coolshell.cn/)
 	* [BYVoid](http://www.byvoid.com/blog/)
 	* [Vamei](http://www.cnblogs.com/vamei/)
+	* [Alexia](http://www.cnblogs.com/lanxuezaipiao/)
+
+* IT Blog
+	* [道哥的黑板报](http://taosay.net/)
+	* [月光博客](http://www.williamlong.info/)
+	* [池建强的BLOG](http://www.cnblogs.com/chijianqiang/)
+
 
 * 数学
 	* [Matrix67](http://www.matrix67.com/blog/)
