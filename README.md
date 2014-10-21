@@ -134,7 +134,7 @@
 
 ### 工学
 
-* 在线OJ
+* Online Judge
 	* [POJ](http://poj.org/)
 	* [OpenJudge](http://openjudge.cn/)
 	* [杭电](http://acm.hdu.edu.cn/)
