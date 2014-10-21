@@ -57,6 +57,9 @@
 	
 	* Markdown
 		* [StackEdit](https://stackedit.io/)
+
+	*LaTeX
+		* [writeLaTeX](https://www.writelatex.com/)
 	
 * 团队协作
 	* [slack](https://slack.com/)
@@ -119,6 +122,7 @@
 * IT业界
 	* [cnBeta](http://www.cnbeta.com/)
 	* [Engadget](http://cn.engadget.com/)
+	* [外刊IT评论](http://www.vaikan.com/)
 
 ### 个人管理
 
