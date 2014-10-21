@@ -143,6 +143,8 @@
 	* [ZOJ](http://acm.zju.edu.cn/onlinejudge/)
 	* [LeetCode](https://oj.leetcode.com/)
 	* [CodeVS](http://codevs.cn/)
+	* [Vijos](https://vijos.org/)
+	* [ProjectEuler](https://projecteuler.net/)
 
 * 在线文档
 	* [常用API文档索引](http://tool.oschina.net/apidocs)
