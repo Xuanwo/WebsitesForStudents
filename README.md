@@ -58,7 +58,7 @@
 	* Markdown
 		* [StackEdit](https://stackedit.io/)
 
-	*LaTeX
+	* LaTeX
 		* [writeLaTeX](https://www.writelatex.com/)
 	
 * 团队协作
