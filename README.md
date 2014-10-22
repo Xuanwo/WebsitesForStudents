@@ -57,6 +57,9 @@
 	
 	* Markdown
 		* [StackEdit](https://stackedit.io/)
+
+	*LaTeX
+		* [writeLaTeX](https://www.writelatex.com/)
 	
 * 团队协作
 	* [slack](https://slack.com/)
@@ -103,6 +106,14 @@
 	* [酷壳](http://coolshell.cn/)
 	* [BYVoid](http://www.byvoid.com/blog/)
 	* [Vamei](http://www.cnblogs.com/vamei/)
+	* [Alexia](http://www.cnblogs.com/lanxuezaipiao/)
+	* [陈硕的Blog](http://blog.csdn.net/Solstice)
+
+* IT Blog
+	* [道哥的黑板报](http://taosay.net/)
+	* [月光博客](http://www.williamlong.info/)
+	* [池建强的BLOG](http://www.cnblogs.com/chijianqiang/)
+
 
 * 数学
 	* [Matrix67](http://www.matrix67.com/blog/)
@@ -112,6 +123,7 @@
 * IT业界
 	* [cnBeta](http://www.cnbeta.com/)
 	* [Engadget](http://cn.engadget.com/)
+	* [外刊IT评论](http://www.vaikan.com/)
 
 ### 个人管理
 
@@ -127,8 +139,9 @@
 
 ### 工学
 
-* 在线OJ
+* Online Judge
 	* [POJ](http://poj.org/)
+	* [topcoder](http://www.topcoder.com/)
 	* [OpenJudge](http://openjudge.cn/)
 	* [杭电](http://acm.hdu.edu.cn/)
 	* [UVa](http://uva.onlinejudge.org/)
@@ -136,15 +149,20 @@
 	* [ZOJ](http://acm.zju.edu.cn/onlinejudge/)
 	* [LeetCode](https://oj.leetcode.com/)
 	* [CodeVS](http://codevs.cn/)
+	* [Vijos](https://vijos.org/)
+	* [ProjectEuler](https://projecteuler.net/)
 
 * 在线文档
 	* [常用API文档索引](http://tool.oschina.net/apidocs)
 
-* 开源世界
+* 开源世界 & 代码托管
 	* [Github](https://github.com/)
 	* [Bitbucket](https://bitbucket.org)
 	* [Google Code](https://code.google.com/)
 	* [开源中国](http://www.oschina.net/)
+	* [CODING](https://coding.net/home.html)
+	* [GitCafe](https://gitcafe.com/)
+	* [CSDN](http://code.csdn.net/)
 
 
 ### 理学
