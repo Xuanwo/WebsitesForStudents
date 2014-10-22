@@ -107,6 +107,7 @@
 	* [BYVoid](http://www.byvoid.com/blog/)
 	* [Vamei](http://www.cnblogs.com/vamei/)
 	* [Alexia](http://www.cnblogs.com/lanxuezaipiao/)
+	* [陈硕的Blog](http://blog.csdn.net/Solstice)
 
 * IT Blog
 	* [道哥的黑板报](http://taosay.net/)
