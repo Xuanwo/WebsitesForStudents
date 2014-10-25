@@ -54,6 +54,8 @@
 
 	* [Lantern](https://getlantern.org/)
 	* [VPN Gate](http://www.vpngate.net/en/)
+	* [imouto.host](https://github.com/zxdrive/imouto.host)
+	* [shadowsocks](https://github.com/clowwindy/shadowsocks)
 
 * 文档类工具
 
@@ -88,6 +90,7 @@
 * 网站工具
 
 	* [Super-Ping](http://www.super-ping.com/)
+	* [果壳任意门](http://gate.guokr.com/)
 
 
 * 编程工具
@@ -143,6 +146,7 @@
 	* [Vamei](http://www.cnblogs.com/vamei/)
 	* [Alexia](http://www.cnblogs.com/lanxuezaipiao/)
 	* [陈硕的Blog](http://blog.csdn.net/Solstice)
+	* [Teahour.fm](http://teahour.fm/)
 
 * 前端开发
 
@@ -153,6 +157,8 @@
 	* [道哥的黑板报](http://taosay.net/)
 	* [月光博客](http://www.williamlong.info/)
 	* [池建强的BLOG](http://www.cnblogs.com/chijianqiang/)
+	* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
+	* [Startup News](http://news.dbanotes.net/news)*博客抓取，非原创*
 
 * 数学
 
@@ -166,6 +172,7 @@
 	* [cnBeta](http://www.cnbeta.com/)
 	* [Engadget](http://cn.engadget.com/)
 	* [外刊IT评论](http://www.vaikan.com/)
+	* [Hacker News](https://news.ycombinator.com/)
 
 ### 个人管理
 
@@ -177,6 +184,11 @@
 
 	* [Google Keep](https://keep.google.com/)
 	* [wunderlist](https://www.wunderlist.com/)
+
+### 社交应用
+
+* 在线问答
+	* [stackoverflow](http://stackoverflow.com/)
 
 ---
 
@@ -241,6 +253,8 @@
 	* [detailyang 编程语言 cheat sheet](https://github.com/detailyang/cheat-sheets)
 	* [www.cheat-sheets.org/](http://www.cheat-sheets.org/)
 	* [DZone](http://refcardz.dzone.com/)
+	* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+	* [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
 
 * 开源世界 & 代码托管
 
