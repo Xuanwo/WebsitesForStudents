@@ -154,8 +154,12 @@
 	* [Vijos](https://vijos.org/)
 	* [ProjectEuler](https://projecteuler.net/)
 
-* 在线文档
+* 在线文档 & Cheat Sheet
 	* [常用API文档索引](http://tool.oschina.net/apidocs)
+	* [OverAPI - cheat sheet](http://overapi.com/)
+	* [detailyang 编程语言 cheat sheet](https://github.com/detailyang/cheat-sheets)
+	* [www.cheat-sheets.org/](http://www.cheat-sheets.org/)
+	* [DZone](http://refcardz.dzone.com/)
 
 * 开源世界 & 代码托管
 	* [Github](https://github.com/)
