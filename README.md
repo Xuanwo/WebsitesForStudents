@@ -25,11 +25,13 @@
 ## 目录
 
 * [专业无关类](#专业无关类)
+
 	* [常用工具](#常用工具)
 	* [网络教育](#网络教育)
 	* [技术博客](#技术博客)
 
 * [专业相关类](#专业相关类)
+
 	* [哲学](#哲学)
 	* [经济学](#经济学)
 	* [历史学](#历史学)
@@ -48,47 +50,59 @@
 ### 常用工具
 
 * 翻墙工具
+
 	* [Lantern](https://getlantern.org/)
 	* [VPN Gate](http://www.vpngate.net/en/)
 
 * 文档类工具
+
 	* PDF
+
 		* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
 		* [PDF合并](http://www.pdfmerge.com/)
 	
 	* Markdown
+
 		* [StackEdit](https://stackedit.io/)
 
 	* LaTeX
+
 		* [writeLaTeX](https://www.writelatex.com/)
 	
 * 团队协作
+
 	* [slack](https://slack.com/)
 	* [GITTER](https://gitter.im/)
 
 * RSS工具
+
 	* [feedly](http://feedly.com/)
 	* [G2Reader](https://www.g2reader.com)
 
 * 博客工具
+
 	* [Tapirgo](http://tapirgo.com/)*通过RSS为静态网站添加搜索功能*
 
 * 网站工具
+
 	* [Super-Ping](http://www.super-ping.com/)
 
 
 * 编程工具
+
 	* [在线编译(codepad.org)](http://codepad.org/)
 	* [Online Code Editor(Codeanywhere)](https://codeanywhere.net/)
 	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
 
 * 云存储工具
+
 	* [MultCloud](https://www.multcloud.com/)
 
 
 ### 网络教育
 
 * 互动式教育
+
 	* [Coursera](https://www.coursera.org/)
 	* [Udacity](https://www.udacity.com/)
 	* [edX](https://www.edx.org/)
@@ -100,22 +114,28 @@
 	* [网易云课堂](http://study.163.com/)
 	* [Udemy](https://www.udemy.com/)
 	* [novoED](https://novoed.com/)
+
 * 在线编程练习
+
 	* [Codecademy](http://www.codecademy.com/)
 	* [Code School](https://www.codeschool.com/)
 	* [bento](https://www.bento.io/)
+
 * 视频教学
+
 	* [lynda](http://www.lynda.com/)
 	* [网易公开课](http://open.163.com/)
 
 ### 技术博客
 
 * OI/ACM竞赛
+
 	* [kuangbin博客](http://www.kuangbin.net/)
 	* [WJMZBMR博客](http://wjmzbmr.com/)
 	* [Barty's Blog](http://barty.ws/)
 
 * 编程开发
+
 	* [酷壳](http://coolshell.cn/)
 	* [BYVoid](http://www.byvoid.com/blog/)
 	* [Vamei](http://www.cnblogs.com/vamei/)
@@ -123,20 +143,24 @@
 	* [陈硕的Blog](http://blog.csdn.net/Solstice)
 
 * 前端开发
+
 	* [前端观察](http://www.qianduan.net/)
 
 * IT Blog
+
 	* [道哥的黑板报](http://taosay.net/)
 	* [月光博客](http://www.williamlong.info/)
 	* [池建强的BLOG](http://www.cnblogs.com/chijianqiang/)
 
 * 数学
+
 	* [Matrix67](http://www.matrix67.com/blog/)
 	* [Paul's Math Notes](http://tutorial.math.lamar.edu/)
 
 ### 业界资讯
 
 * IT业界
+
 	* [cnBeta](http://www.cnbeta.com/)
 	* [Engadget](http://cn.engadget.com/)
 	* [外刊IT评论](http://www.vaikan.com/)
@@ -144,9 +168,11 @@
 ### 个人管理
 
 * 时间管理
+
 	* [褪墨](http://www.mifengtd.cn/)
 
 * TODO/Task List
+
 	* [Google Keep](https://keep.google.com/)
 	* [wunderlist](https://www.wunderlist.com/)
 
@@ -159,6 +185,7 @@
 ### 经济学
 
 * 门户
+
 	* [经济观察](http://www.eeo.com.cn/)
 	* [FT中文网](http://www.ftchinese.com/)
 	* [第一财经](http://www.yicai.com/)
@@ -167,10 +194,12 @@
 	* [Reachvc](http://www.reachvc.com/)
 
 * 博客
+
 	* [周其仁博客](http://zhouqiren.org/)
 	* [谢国忠博客](http://xieguozhong.blog.sohu.com/)
 
 * 论坛
+
 	* [人大经济论坛](http://bbs.pinggu.org/)
 
 ### 历史学
@@ -184,11 +213,13 @@
 ### 理学
 
 * 数论
+
 	* [数列百科(OEIS)](http://oeis.org/)
 
 ### 工学
 
 * Online Judge
+
 	* [POJ](http://poj.org/)
 	* [topcoder](http://www.topcoder.com/)
 	* [OpenJudge](http://openjudge.cn/)
@@ -202,6 +233,7 @@
 	* [ProjectEuler](https://projecteuler.net/)
 
 * 在线文档 & Cheat Sheet
+
 	* [常用API文档索引](http://tool.oschina.net/apidocs)
 	* [OverAPI - cheat sheet](http://overapi.com/)
 	* [detailyang 编程语言 cheat sheet](https://github.com/detailyang/cheat-sheets)
@@ -209,6 +241,7 @@
 	* [DZone](http://refcardz.dzone.com/)
 
 * 开源世界 & 代码托管
+
 	* [Github](https://github.com/)
 	* [Bitbucket](https://bitbucket.org)
 	* [Google Code](https://code.google.com/)
@@ -218,6 +251,7 @@
 	* [CSDN](http://code.csdn.net/)
 
 * 测试工具
+
 	* [Travis CI](https://travis-ci.org/)
 
 ### 农学
