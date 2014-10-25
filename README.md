@@ -17,7 +17,8 @@
 ### 交流
 欢迎大家将珍藏已久的好网站共享出来，您可以：
 
-* 使用 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues) 以及 [Pull Request](https://github.com/Xuanwo/WebsitesForStudents/pulls)
+* 使用 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues) 
+* 使用 [Pull Request](https://github.com/Xuanwo/WebsitesForStudents/pulls)
 
 贡献者名单: https://github.com/Xuanwo/WebsitesForStudents/graphs/contributors
 
@@ -46,7 +47,7 @@
 	
 ### 常用工具
 
-* 翻墙
+* 翻墙工具
 	* [Lantern](https://getlantern.org/)
 	* [VPN Gate](http://www.vpngate.net/en/)
 
@@ -69,11 +70,21 @@
 	* [feedly](http://feedly.com/)
 	* [G2Reader](https://www.g2reader.com)
 
+* 博客工具
+	* [Tapirgo](http://tapirgo.com/)*通过RSS为静态网站添加搜索功能*
+
+* 网站工具
+	* [Super-Ping](http://www.super-ping.com/)
+
 
 * 编程工具
 	* [在线编译(codepad.org)](http://codepad.org/)
 	* [Online Code Editor(Codeanywhere)](https://codeanywhere.net/)
 	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
+
+* 云存储工具
+	* [MultCloud](https://www.multcloud.com/)
+
 
 ### 网络教育
 
@@ -99,21 +110,25 @@
 
 ### 技术博客
 
-* ACM
+* OI/ACM竞赛
 	* [kuangbin博客](http://www.kuangbin.net/)
+	* [WJMZBMR博客](http://wjmzbmr.com/)
+	* [Barty's Blog](http://barty.ws/)
 
-* 编程
+* 编程开发
 	* [酷壳](http://coolshell.cn/)
 	* [BYVoid](http://www.byvoid.com/blog/)
 	* [Vamei](http://www.cnblogs.com/vamei/)
 	* [Alexia](http://www.cnblogs.com/lanxuezaipiao/)
 	* [陈硕的Blog](http://blog.csdn.net/Solstice)
 
+* 前端开发
+	* [前端观察](http://www.qianduan.net/)
+
 * IT Blog
 	* [道哥的黑板报](http://taosay.net/)
 	* [月光博客](http://www.williamlong.info/)
 	* [池建强的BLOG](http://www.cnblogs.com/chijianqiang/)
-
 
 * 数学
 	* [Matrix67](http://www.matrix67.com/blog/)
@@ -139,6 +154,37 @@
 
 ## 专业相关类
 
+### 哲学
+
+### 经济学
+
+* 门户
+	* [经济观察](http://www.eeo.com.cn/)
+	* [FT中文网](http://www.ftchinese.com/)
+	* [第一财经](http://www.yicai.com/)
+	* [和讯](http://www.hexun.com/)
+	* [雪球](http://xueqiu.com/)
+	* [Reachvc](http://www.reachvc.com/)
+
+* 博客
+	* [周其仁博客](http://zhouqiren.org/)
+	* [谢国忠博客](http://xieguozhong.blog.sohu.com/)
+
+* 论坛
+	* [人大经济论坛](http://bbs.pinggu.org/)
+
+### 历史学
+
+### 法学
+
+### 教育学
+
+### 文学
+
+### 理学
+
+* 数论
+	* [数列百科(OEIS)](http://oeis.org/)
 
 ### 工学
 
@@ -171,9 +217,11 @@
 	* [GitCafe](https://gitcafe.com/)
 	* [CSDN](http://code.csdn.net/)
 
+* 测试工具
+	* [Travis CI](https://travis-ci.org/)
 
-### 理学
+### 农学
 
-* 数论
-	* [数列百科(OEIS)](http://oeis.org/)
+### 医学
 
+### 管理学
