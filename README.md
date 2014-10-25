@@ -117,6 +117,7 @@
 
 * 数学
 	* [Matrix67](http://www.matrix67.com/blog/)
+	* [Paul's Math Notes](http://tutorial.math.lamar.edu/)
 
 ### 业界资讯
 
