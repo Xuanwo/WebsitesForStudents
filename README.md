@@ -1,6 +1,7 @@
 大学生网站集合
 ===================
 ### 简介
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Xuanwo/WebsitesForStudents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 本库旨在建设一个对大学生有益有用的网站集合，欢迎参与编辑。
 
 ###	标准
