@@ -19,7 +19,7 @@
 
 * 使用 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues) 
 * 使用 [Pull Request](https://github.com/Xuanwo/WebsitesForStudents/pulls)
-* 使用 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Xuanwo/WebsitesForStudents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)进行在线交流
+* 使用 [![Gitter](http://xuanwo.qiniudn.com/Join%20Chat.svg)](https://gitter.im/Xuanwo/WebsitesForStudents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)进行在线交流
 
 贡献者名单: https://github.com/Xuanwo/WebsitesForStudents/graphs/contributors
 
