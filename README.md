@@ -74,6 +74,7 @@
 
 	* [slack](https://slack.com/)
 	* [GITTER](https://gitter.im/)
+	* [Trello](https://trello.com/)
 
 * RSS工具
 
