@@ -128,7 +128,7 @@
 		* [黑话字典](http://heywhat.cc/)
 
 	* 翻译
-		*[MyMemory](http://mymemory.translated.net/)
+		* [MyMemory](http://mymemory.translated.net/)
 
 * 云存储工具
 
