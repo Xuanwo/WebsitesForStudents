@@ -54,6 +54,11 @@
 * 学术期刊
 
 	* [中国知网](http://www.cnki.net/)
+
+* 学术文档搜索
+	
+	* [ISBN 数据库](http://isbndb.com/)
+
 	
 ### 常用工具
 
@@ -70,6 +75,7 @@
 
 		* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
 		* [PDF合并](http://www.pdfmerge.com/)
+		* [PDF转换](http://www.freepdfconvert.com/)
 	
 	* Markdown
 
@@ -78,6 +84,10 @@
 	* LaTeX
 
 		* [writeLaTeX](https://www.writelatex.com/)
+
+	* 论文格式工具
+		* [NoodleTools](http://www.noodletools.com/index.php)
+		* [Citation Machine](http://www.citationmachine.net/)
 	
 * 团队协作
 
@@ -99,12 +109,26 @@
 	* [Super-Ping](http://www.super-ping.com/)
 	* [果壳任意门](http://gate.guokr.com/)
 
-
 * 编程工具
 
 	* [在线编译(codepad.org)](http://codepad.org/)
 	* [Online Code Editor(Codeanywhere)](https://codeanywhere.net/)
 	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
+
+* 字典词典 & 翻译工具
+	* 英语
+		* [Word Reference](http://www.wordreference.com/)
+		* [Dictionary Reference](http://dictionary.reference.com/)
+		* [Oxford Dictionaries](http://www.oxforddictionaries.com/)
+		* [英文单词近义词 反义词](http://www.thesaurus.com/)
+		* [俚语词典](http://onlineslangdictionary.com/)
+		* [俚语方言](http://www.urbandictionary.com/)
+	* 汉语
+		* [汉典](http://www.zdic.net/)
+		* [黑话字典](http://heywhat.cc/)
+
+	* 翻译
+		* [MyMemory](http://mymemory.translated.net/)
 
 * 云存储工具
 
@@ -203,6 +227,8 @@
 
 ### 哲学
 
+* [中國哲學書電子化計劃](http://ctext.org/zh/)
+
 ### 经济学
 
 * 门户
@@ -223,7 +249,13 @@
 
 	* [人大经济论坛](http://bbs.pinggu.org/)
 
+* [美国债务](http://www.usdebtclock.org/)
+
 ### 历史学
+
+* 工具
+	
+	* [两千年中西历转换](http://sinocal.sinica.edu.tw/)
 
 ### 法学
 
@@ -232,6 +264,12 @@
 ### 文学
 
 ### 理学
+
+* 生物
+
+	* [生命时间树](http://www.timetree.org/index.php)
+	* [UCSC基因组浏览](http://genome.ucsc.edu/index.html)
+	* [DNA条码记录](http://www.boldsystems.org/)
 
 * 数论
 
