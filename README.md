@@ -119,18 +119,23 @@
 	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
 
 * 字典词典 & 翻译工具
+
 	* 英语
+
 		* [Word Reference](http://www.wordreference.com/)
 		* [Dictionary Reference](http://dictionary.reference.com/)
 		* [Oxford Dictionaries](http://www.oxforddictionaries.com/)
 		* [英文单词近义词 反义词](http://www.thesaurus.com/)
 		* [俚语词典](http://onlineslangdictionary.com/)
 		* [俚语方言](http://www.urbandictionary.com/)
+
 	* 汉语
+
 		* [汉典](http://www.zdic.net/)
 		* [黑话字典](http://heywhat.cc/)
 
 	* 翻译
+
 		* [MyMemory](http://mymemory.translated.net/)
 
 * 云存储工具
@@ -138,6 +143,7 @@
 	* [MultCloud](https://www.multcloud.com/)
 
 * 生活工具
+
 	* [SeatGuru *飞机座位查询*](http://www.seatguru.com/)
 	* [TheTimeNow *世界各地现时的当地时间及地理资讯*](http://www.thetimenow.com/)
 	* [美国神话终结者 *美国生活指南*](http://liveinna.com/)
@@ -222,11 +228,12 @@
 * TODO/Task List
 
 	* [Google Keep](https://keep.google.com/)
-	* [wunderlist](https://www.wunderlist.com/)
+	* [Wunderlist](https://www.wunderlist.com/)
 
 ### 社交应用
 
 * 在线问答
+
 	* [stackoverflow](http://stackoverflow.com/)
 
 ---
@@ -235,7 +242,9 @@
 
 ### 哲学
 
-* [中國哲學書電子化計劃](http://ctext.org/zh/)
+* 书籍
+
+	* [中国哲学书电子化计划](http://ctext.org/zh/)
 
 ### 经济学
 
@@ -258,9 +267,9 @@
 	* [人大经济论坛](http://bbs.pinggu.org/)
 
 * 工具
-	* [Bloomberg Industry Market Leaders *工业市场领头羊数据*](http://www.bloomberg.com/visual-data/industries/q/market-leaders)
 
-* [美国债务](http://www.usdebtclock.org/)
+	* [Bloomberg Industry Market Leaders *工业市场领头羊数据*](http://www.bloomberg.com/visual-data/industries/q/market-leaders)
+	* [美国债务](http://www.usdebtclock.org/)
 
 ### 历史学
 
