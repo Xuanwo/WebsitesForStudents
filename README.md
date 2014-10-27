@@ -88,6 +88,9 @@
 	* 论文格式工具
 		* [NoodleTools](http://www.noodletools.com/index.php)
 		* [Citation Machine](http://www.citationmachine.net/)
+
+	* ISBN
+		* [ISBNdb *a unique book & ISBN database*](http://isbndb.com/)
 	
 * 团队协作
 
@@ -102,7 +105,7 @@
 
 * 博客工具
 
-	* [Tapirgo](http://tapirgo.com/)*通过RSS为静态网站添加搜索功能*
+	* [Tapirgo *通过RSS为静态网站添加搜索功能*](http://tapirgo.com/)
 
 * 网站工具
 
@@ -133,6 +136,11 @@
 * 云存储工具
 
 	* [MultCloud](https://www.multcloud.com/)
+
+* 生活工具
+	* [SeatGuru *飞机座位查询*](http://www.seatguru.com/)
+	* [TheTimeNow *世界各地现时的当地时间及地理资讯*](http://www.thetimenow.com/)
+	* [美国神话终结者 *美国生活指南*](http://liveinna.com/)
 
 
 ### 网络教育
@@ -249,6 +257,9 @@
 
 	* [人大经济论坛](http://bbs.pinggu.org/)
 
+* 工具
+	* [Bloomberg Industry Market Leaders *工业市场领头羊数据*](http://www.bloomberg.com/visual-data/industries/q/market-leaders)
+
 * [美国债务](http://www.usdebtclock.org/)
 
 ### 历史学
@@ -271,9 +282,11 @@
 	* [UCSC基因组浏览](http://genome.ucsc.edu/index.html)
 	* [DNA条码记录](http://www.boldsystems.org/)
 
-* 数论
+* 数学
 
-	* [数列百科(OEIS)](http://oeis.org/)
+	* [OEIS *数列百科*](http://oeis.org/)
+	* [Desmos *在线函数作图工具*](https://www.desmos.com/calculator)
+
 
 ### 工学
 
