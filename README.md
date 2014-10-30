@@ -148,6 +148,10 @@
 	* [TheTimeNow *世界各地现时的当地时间及地理资讯*](http://www.thetimenow.com/)
 	* [美国神话终结者 *美国生活指南*](http://liveinna.com/)
 
+* 系统工具
+
+	* [FileInfo *文件后缀名信息查询*](http://www.fileinfo.com/)
+
 
 ### 网络教育
 
@@ -175,40 +179,6 @@
 
 	* [lynda](http://www.lynda.com/)
 	* [网易公开课](http://open.163.com/)
-
-### 技术博客
-
-* OI/ACM竞赛
-
-	* [kuangbin博客](http://www.kuangbin.net/)
-	* [WJMZBMR博客](http://wjmzbmr.com/)
-	* [Barty's Blog](http://barty.ws/)
-
-* 编程开发
-
-	* [酷壳](http://coolshell.cn/)
-	* [BYVoid](http://www.byvoid.com/blog/)
-	* [Vamei](http://www.cnblogs.com/vamei/)
-	* [Alexia](http://www.cnblogs.com/lanxuezaipiao/)
-	* [陈硕的Blog](http://blog.csdn.net/Solstice)
-	* [Teahour.fm](http://teahour.fm/)
-
-* 前端开发
-
-	* [前端观察](http://www.qianduan.net/)
-
-* IT Blog
-
-	* [道哥的黑板报](http://taosay.net/)
-	* [月光博客](http://www.williamlong.info/)
-	* [池建强的BLOG](http://www.cnblogs.com/chijianqiang/)
-	* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
-	* [Startup News](http://news.dbanotes.net/news)*博客抓取，非原创*
-
-* 数学
-
-	* [Matrix67](http://www.matrix67.com/blog/)
-	* [Paul's Math Notes](http://tutorial.math.lamar.edu/)
 
 ### 业界资讯
 
@@ -293,8 +263,13 @@
 
 * 数学
 
-	* [OEIS *数列百科*](http://oeis.org/)
-	* [Desmos *在线函数作图工具*](https://www.desmos.com/calculator)
+	* 工具
+		* [OEIS *数列百科*](http://oeis.org/)
+		* [Desmos *在线函数作图工具*](https://www.desmos.com/calculator)
+
+	* 博客
+		* [Matrix67](http://www.matrix67.com/blog/)
+		* [Paul's Math Notes](http://tutorial.math.lamar.edu/)
 
 
 ### 工学
@@ -336,6 +311,45 @@
 * 测试工具
 
 	* [Travis CI](https://travis-ci.org/)
+
+* 互联网创业
+
+	* [午夜兰花手札 *关于大学生创业的文章*](http://www.xyzlove.com/)
+	* [36氪 *关注互联网创业*](http://www.36kr.com/)
+
+* 技术博客
+
+	* OI/ACM竞赛
+
+		* [kuangbin博客](http://www.kuangbin.net/)
+		* [WJMZBMR博客](http://wjmzbmr.com/)
+		* [Barty's Blog](http://barty.ws/)
+
+	* 编程开发
+
+		* [酷壳](http://coolshell.cn/)
+		* [BYVoid](http://www.byvoid.com/blog/)
+		* [Vamei](http://www.cnblogs.com/vamei/)
+		* [Alexia](http://www.cnblogs.com/lanxuezaipiao/)
+		* [陈硕的Blog](http://blog.csdn.net/Solstice)
+		* [Teahour.fm](http://teahour.fm/)
+
+	* 前端开发
+
+		* [前端观察](http://www.qianduan.net/)
+
+	* IT Blog
+
+		* [道哥的黑板报](http://taosay.net/)
+		* [月光博客](http://www.williamlong.info/)
+		* [池建强的BLOG](http://www.cnblogs.com/chijianqiang/)
+		* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
+		* [Startup News](http://news.dbanotes.net/news)*博客抓取，非原创*
+
+* 娱乐工具
+	
+	* [Hackertyper *自动生成代码的打印机*](http://www.webhek.com/misc/hackertyper/)
+
 
 ### 农学
 
