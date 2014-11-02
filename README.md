@@ -58,6 +58,7 @@
 * 学术文档搜索
 	
 	* [ISBN 数据库](http://isbndb.com/)
+	* [谷歌学术搜索](http://scholar.google.com/)
 
 	
 ### 常用工具
@@ -86,11 +87,17 @@
 		* [writeLaTeX](https://www.writelatex.com/)
 
 	* 论文格式工具
+
 		* [NoodleTools](http://www.noodletools.com/index.php)
 		* [Citation Machine](http://www.citationmachine.net/)
 
 	* ISBN
+
 		* [ISBNdb *a unique book & ISBN database*](http://isbndb.com/)
+
+	* 模板
+
+		* [乔布简历 *提供简历下载与定制*](http://cv.qiaobutang.com/)
 	
 * 团队协作
 
@@ -106,17 +113,8 @@
 * 博客工具
 
 	* [Tapirgo *通过RSS为静态网站添加搜索功能*](http://tapirgo.com/)
+	* [Mailp.in *将邮件转化为网页*](http://mailp.in/)
 
-* 网站工具
-
-	* [Super-Ping](http://www.super-ping.com/)
-	* [果壳任意门](http://gate.guokr.com/)
-
-* 编程工具
-
-	* [在线编译(codepad.org)](http://codepad.org/)
-	* [Online Code Editor(Codeanywhere)](https://codeanywhere.net/)
-	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
 
 * 字典词典 & 翻译工具
 
@@ -141,6 +139,7 @@
 * 云存储工具
 
 	* [MultCloud](https://www.multcloud.com/)
+	* [MediaFire *提供文件同步，分享与存储*](https://www.mediafire.com/)
 
 * 生活工具
 
@@ -152,6 +151,40 @@
 
 	* [FileInfo *文件后缀名信息查询*](http://www.fileinfo.com/)
 
+* 娱乐工具
+
+	* [MoviePanda *在线电影观看*](http://www.moviepanda.tv/)
+	* [PopcornTime *在线电视及电影观看*](https://popcorntime.io/)
+
+### 博客日志
+
+* 文化
+
+* 娱乐
+
+	* [名人排名系统](http://pantheon.media.mit.edu/)
+
+* 时评
+
+* 体育
+
+* IT
+
+	* [MacTalk *池建强的随想录——关注技术和人文*](http://macshuo.com/)
+
+* 旅游
+
+	* [世界全息摄影](https://www.360cities.net/)
+
+* 美食
+
+* 健康
+
+* 教育
+
+* 校园
+
+* 游戏
 
 ### 网络教育
 
@@ -168,6 +201,7 @@
 	* [网易云课堂](http://study.163.com/)
 	* [Udemy](https://www.udemy.com/)
 	* [novoED](https://novoed.com/)
+	* [BOUNDLESS *在线测试，PPT，作业平台，收费*](https://www.boundless.com/)
 
 * 在线编程练习
 
@@ -180,14 +214,9 @@
 	* [lynda](http://www.lynda.com/)
 	* [网易公开课](http://open.163.com/)
 
-### 业界资讯
+* 科普
 
-* IT业界
-
-	* [cnBeta](http://www.cnbeta.com/)
-	* [Engadget](http://cn.engadget.com/)
-	* [外刊IT评论](http://www.vaikan.com/)
-	* [Hacker News](https://news.ycombinator.com/)
+	* [果壳](http://www.guokr.com/)
 
 ### 个人管理
 
@@ -204,7 +233,8 @@
 
 * 在线问答
 
-	* [stackoverflow](http://stackoverflow.com/)
+	* [Stackoverflow](http://stackoverflow.com/)
+	* [Stack Exchange *知识交流分享*](https://stackexchange.com/)
 
 ---
 
@@ -236,10 +266,15 @@
 
 	* [人大经济论坛](http://bbs.pinggu.org/)
 
+* 数据
+
+	* [Ycharts *提供专业的经济运行数据与分析服务，收费*](http://ycharts.com/)
+
 * 工具
 
 	* [Bloomberg Industry Market Leaders *工业市场领头羊数据*](http://www.bloomberg.com/visual-data/industries/q/market-leaders)
 	* [美国债务](http://www.usdebtclock.org/)
+	* [HowTheMarketWorks *模拟股市经营*](http://www.howthemarketworks.com/)
 
 ### 历史学
 
@@ -251,7 +286,24 @@
 
 ### 教育学
 
+* 语言教育
+
+	* [italki *收费的在线语言教程 (Scott young 推荐)*](http://www.italki.com/)
+	* [译言网 *发现、翻译、分享中文之外的互联网精华*](http://www.yeeyan.org/)
+	* [dailythem *The fastest, most fun way to improve your English writing*](http://www.dailythem.es/)
+	* [乡音苑 *中国方言收集与整理*](http://phonemica.net/)
+	* [Google濒危语言项目](http://www.endangeredlanguages.com/)
+
 ### 文学
+
+* 阅读分享
+
+	* [goodreads *国外版的豆瓣*](http://www.goodreads.com/)
+
+* 书法艺术
+
+	* [Calligraphy Skills *英语书法*](http://www.calligraphy-skills.com/)
+
 
 ### 理学
 
@@ -260,6 +312,7 @@
 	* [生命时间树](http://www.timetree.org/index.php)
 	* [UCSC基因组浏览](http://genome.ucsc.edu/index.html)
 	* [DNA条码记录](http://www.boldsystems.org/)
+	* [xeno-canto *鸟类叫声数据库*](http://www.xeno-canto.org/)
 
 * 数学
 
@@ -308,6 +361,12 @@
 	* [GitCafe](https://gitcafe.com/)
 	* [CSDN](http://code.csdn.net/)
 
+* 编程工具
+
+	* [在线编译(codepad.org)](http://codepad.org/)
+	* [Online Code Editor(Codeanywhere)](https://codeanywhere.net/)
+	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
+
 * 测试工具
 
 	* [Travis CI](https://travis-ci.org/)
@@ -316,6 +375,7 @@
 
 	* [午夜兰花手札 *关于大学生创业的文章*](http://www.xyzlove.com/)
 	* [36氪 *关注互联网创业*](http://www.36kr.com/)
+	* [虎嗅 *有视角的、个性化商业资讯与交流平台*](http://www.huxiu.com/)
 
 * 技术博客
 
@@ -349,6 +409,26 @@
 * 娱乐工具
 	
 	* [Hackertyper *自动生成代码的打印机*](http://www.webhek.com/misc/hackertyper/)
+
+* 网站工具
+
+	* [Super-Ping](http://www.super-ping.com/)
+	* [果壳任意门](http://gate.guokr.com/)
+	* [ChangeDetection *网页变化监视工具*](http://www.changedetection.com/)
+
+* 硬件信息
+
+	* [NotebookCheck *移动平台硬件信息*](http://www.notebookcheck.net/)
+
+* 业界资讯
+
+	* [cnBeta](http://www.cnbeta.com/)
+	* [Engadget](http://cn.engadget.com/)
+	* [外刊IT评论](http://www.vaikan.com/)
+	* [Hacker News](https://news.ycombinator.com/)
+	* [极客公园 *发现产品的价值！*](http://www.geekpark.net/)
+	* [极客范](http://www.geekfan.net/)
+
 
 
 ### 农学
