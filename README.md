@@ -454,7 +454,7 @@
 	* [Engadget](http://cn.engadget.com/)
 	* [外刊IT评论](http://www.vaikan.com/)
 	* [Hacker News](https://news.ycombinator.com/)
-	* [极客公园 *发现产品的价值！*](http://www.geekpark.net/)
+	* [极客公园](http://www.geekpark.net/)
 	* [极客范](http://www.geekfan.net/)
 
 
