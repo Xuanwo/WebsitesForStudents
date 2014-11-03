@@ -321,6 +321,7 @@
 	* [UCSC基因组浏览](http://genome.ucsc.edu/index.html)
 	* [DNA条码记录](http://www.boldsystems.org/)
 	* [xeno-canto *鸟类叫声数据库*](http://www.xeno-canto.org/)
+	* [Byte Size Biology *一个计算生物学家的blog*](http://bytesizebio.net/)
 
 * 数学
 
@@ -407,6 +408,7 @@
 		* [笑遍世界](http://smilejay.com/)
 		* [Jon Skeet's coding blog](http://codeblog.jonskeet.uk/)
 		* [Boyd Wang's blog](http://www.boydwang.com/)
+		* [服务器运维与网站架构|Linux运维|X研究](http://www.ha97.com/)
 
 	* 前端开发
 
