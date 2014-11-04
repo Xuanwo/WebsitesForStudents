@@ -176,6 +176,7 @@
 * 旅游
 
 	* [世界全息摄影](https://www.360cities.net/)
+	* [Leica 中文摄影杂志](http://www.leica.org.cn/)
 
 * 美食
 
@@ -184,6 +185,7 @@
 * 教育
 
 * 校园
+	* [奔走美国 *一个blog*](http://blog.sina.com.cn/u/1478563674)
 
 * 游戏
 
@@ -262,6 +264,7 @@
 
 	* [周其仁博客](http://zhouqiren.org/)
 	* [谢国忠博客](http://xieguozhong.blog.sohu.com/)
+	* [Zero Hedge](http://www.zerohedge.com/)
 
 * 论坛
 
@@ -294,6 +297,10 @@
 	* [dailythem *The fastest, most fun way to improve your English writing*](http://www.dailythem.es/)
 	* [乡音苑 *中国方言收集与整理*](http://phonemica.net/)
 	* [Google濒危语言项目](http://www.endangeredlanguages.com/)
+	* [The Dictionary of Obscure Sorrows *英文晦涩词语词典*](http://www.dictionaryofobscuresorrows.com/)
+	* [Common Mistakes in Business English](http://blog.harwardcommunications.com/)
+	* [Grammarist *英语语法相关*](http://grammarist.com/)
+
 
 ### 文学
 
@@ -314,6 +321,7 @@
 	* [UCSC基因组浏览](http://genome.ucsc.edu/index.html)
 	* [DNA条码记录](http://www.boldsystems.org/)
 	* [xeno-canto *鸟类叫声数据库*](http://www.xeno-canto.org/)
+	* [Byte Size Biology *一个计算生物学家的blog*](http://bytesizebio.net/)
 
 * 数学
 
@@ -324,6 +332,7 @@
 	* 博客
 		* [Matrix67](http://www.matrix67.com/blog/)
 		* [Paul's Math Notes](http://tutorial.math.lamar.edu/)
+		* [陶哲轩的博客](http://terrytao.wordpress.com/)
 
 
 ### 工学
@@ -394,10 +403,17 @@
 		* [Alexia](http://www.cnblogs.com/lanxuezaipiao/)
 		* [陈硕的Blog](http://blog.csdn.net/Solstice)
 		* [Teahour.fm](http://teahour.fm/)
+		* [EtherDream の 原创空间](http://www.cnblogs.com/index-html)
+		* [Jixun 的资料仓库](http://jixun.org/)
+		* [笑遍世界](http://smilejay.com/)
+		* [Jon Skeet's coding blog](http://codeblog.jonskeet.uk/)
+		* [Boyd Wang's blog](http://www.boydwang.com/)
+		* [服务器运维与网站架构|Linux运维|X研究](http://www.ha97.com/)
 
 	* 前端开发
 
 		* [前端观察](http://www.qianduan.net/)
+		* [Kariyou's Blog](http://www.fantxi.com/blog/)
 
 	* IT Blog
 
@@ -406,6 +422,17 @@
 		* [池建强的BLOG](http://www.cnblogs.com/chijianqiang/)
 		* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
 		* [Startup News](http://news.dbanotes.net/news)*博客抓取，非原创*
+		* [弯曲评论](http://www.valleytalk.org/)
+		* [DataGenetics Blog *大数据相关*](http://datagenetics.com/blog.html)
+		* [Data Pointed *艺术与数据*](http://www.datapointed.net/)
+		* [Coding Horror](http://blog.codinghorror.com/)
+		* [Joel On Software *stackoverflow cofounder's blog*](http://www.joelonsoftware.com/)
+
+	* 网络 & 安全
+		* [Worm.cc *网络安全blog*](http://worm.cc/)
+		* [Evi1m0 *安全圈的大牛*](http://evilsay.cc/)
+		* [Hacker Soul](http://www.hackersoul.com/)
+
 
 * 娱乐工具
 	
@@ -427,7 +454,7 @@
 	* [Engadget](http://cn.engadget.com/)
 	* [外刊IT评论](http://www.vaikan.com/)
 	* [Hacker News](https://news.ycombinator.com/)
-	* [极客公园 *发现产品的价值！*](http://www.geekpark.net/)
+	* [极客公园](http://www.geekpark.net/)
 	* [极客范](http://www.geekfan.net/)
 
 
