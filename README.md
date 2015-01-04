@@ -178,6 +178,7 @@
 * IT
 
 	* [MacTalk *池建强的随想录——关注技术和人文*](http://macshuo.com/)
+	* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
 
 * 旅游
 
@@ -247,6 +248,7 @@
 
 	* [Stackoverflow](http://stackoverflow.com/)
 	* [Stack Exchange *知识交流分享*](https://stackexchange.com/)
+	* [Quora-Your Best Source for Knowledge](https://www.quora.com/)
 
 ---
 
@@ -327,6 +329,9 @@
 * 书法艺术
 
 	* [Calligraphy Skills *英语书法*](http://www.calligraphy-skills.com/)
+* 免费公版书
+    
+	* [Free ebooks - Project Gutenberg](http://www.gutenberg.org/)
 
 
 ### 理学
@@ -482,6 +487,7 @@
 
 ### 医学
 <div id="2.10"></div>
+    * [丁香园](http://www.dxy.cn/)
 
 ### 管理学
 <div id="2.11"></div>
