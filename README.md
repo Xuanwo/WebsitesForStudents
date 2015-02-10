@@ -179,6 +179,7 @@
 
 	* [MacTalk *池建强的随想录——关注技术和人文*](http://macshuo.com/)
 	* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
+	* [Deciphering Glyph](https://glyph.twistedmatrix.com/)
 
 * 旅游
 
@@ -249,6 +250,12 @@
 	* [Stackoverflow](http://stackoverflow.com/)
 	* [Stack Exchange *知识交流分享*](https://stackexchange.com/)
 	* [Quora-Your Best Source for Knowledge](https://www.quora.com/)
+
+### 影音视听
+
+* 外剧社区
+
+	* [天涯小筑 *您通向英语电视世界的中文门户*](http://tvfantasy.net/)
 
 ---
 
