@@ -13,6 +13,7 @@
 - 原则上按专业学科进行分类，难以分类的进入通用类。
 - 类别较多，请多多使用Ctrl+F。
 - 不限制网站语言，推荐中文或英文为主。
+- 如果出现网页失效，请提交issues。
 
 ### 交流
 欢迎大家将珍藏已久的好网站共享出来，您可以：
@@ -49,11 +50,11 @@
 	* [管理学](#2.11)
 
 ---	
-## 专业无关类
 <div id="1"></div>
+## 专业无关类
 
-### 学术文献
 <div id="1.1"></div>
+### 学术文献
 
 * 学术期刊
 
@@ -64,9 +65,8 @@
 	* [ISBN 数据库](http://isbndb.com/)
 	* [谷歌学术搜索](http://scholar.google.com/)
 
-	
+<div id="1.2"></div>	
 ### 常用工具
-<div id="1.2"></div>
 
 * 翻墙工具
 
@@ -162,8 +162,8 @@
 	* [PopcornTime *在线电视及电影观看*](https://popcorntime.io/)
 	* [what-if *有趣的文字漫画*](http://xkcd.com/)
 
-### 博客日志
 <div id="1.3"></div>
+### 博客日志
 
 * 文化
 
@@ -196,8 +196,8 @@
 
 * 游戏
 
-### 网络教育
 <div id="1.4"></div>
+### 网络教育
 
 * 互动式教育
 
@@ -229,8 +229,8 @@
 
 	* [果壳](http://www.guokr.com/)
 
-### 个人管理
 <div id="1.5"></div>
+### 个人管理
 
 * 时间管理
 
@@ -241,8 +241,8 @@
 	* [Google Keep](https://keep.google.com/)
 	* [Wunderlist](https://www.wunderlist.com/)
 
-### 社交应用
 <div id="1.6"></div>
+### 社交应用
 
 * 在线问答
 
@@ -252,18 +252,18 @@
 
 ---
 
-## 专业相关类
 <div id="2"></div>
+## 专业相关类
 
-### 哲学
 <div id="2.1"></div>
+### 哲学
 
 * 书籍
 
 	* [中国哲学书电子化计划](http://ctext.org/zh/)
 
-### 经济学
 <div id="2.2"></div>
+### 经济学
 
 * 门户
 
@@ -294,18 +294,18 @@
 	* [美国债务](http://www.usdebtclock.org/)
 	* [HowTheMarketWorks *模拟股市经营*](http://www.howthemarketworks.com/)
 
-### 历史学
 <div id="2.3"></div>
+### 历史学
 
 * 工具
 	
 	* [两千年中西历转换](http://sinocal.sinica.edu.tw/)
 
-### 法学
 <div id="2.4"></div>
+### 法学
 
-### 教育学
 <div id="2.5"></div>
+### 教育学
 
 * 语言教育
 
@@ -319,8 +319,8 @@
 	* [Grammarist *英语语法相关*](http://grammarist.com/)
 
 
-### 文学
 <div id="2.6"></div>
+### 文学
 
 * 阅读分享
 
@@ -329,13 +329,14 @@
 * 书法艺术
 
 	* [Calligraphy Skills *英语书法*](http://www.calligraphy-skills.com/)
+
 * 免费公版书
     
 	* [Free ebooks - Project Gutenberg](http://www.gutenberg.org/)
 
 
-### 理学
 <div id="2.7"></div>
+### 理学
 
 * 生物
 
@@ -357,8 +358,8 @@
 		* [陶哲轩的博客](http://terrytao.wordpress.com/)
 
 
-### 工学
 <div id="2.8"></div>
+### 工学
 
 * Online Judge
 
@@ -481,16 +482,15 @@
 	* [极客范](http://www.geekfan.net/)
 
 
-
-### 农学
 <div id="2.9"></div>
+### 农学
 
-### 医学
 <div id="2.10"></div>
+### 医学
 
 * 医学类门户网站
 
      * [丁香园](http://www.dxy.cn/)
 
-### 管理学
 <div id="2.11"></div>
+### 管理学
