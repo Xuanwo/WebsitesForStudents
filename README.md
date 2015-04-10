@@ -68,7 +68,7 @@
 <div id="1.2"></div>	
 ### 常用工具
 
-* 翻墙工具
+* 科学上网工具
 
 	* [Lantern](https://getlantern.org/)
 	* [VPN Gate](http://www.vpngate.net/en/)
@@ -220,6 +220,7 @@
 	* [Codecademy](http://www.codecademy.com/)
 	* [Code School](https://www.codeschool.com/)
 	* [bento](https://www.bento.io/)
+	* [Codefights *在线代码竞技*](https://codefights.com/)
 
 * 视频教学
 
@@ -250,6 +251,7 @@
 	* [Stackoverflow](http://stackoverflow.com/)
 	* [Stack Exchange *知识交流分享*](https://stackexchange.com/)
 	* [Quora-Your Best Source for Knowledge](https://www.quora.com/)
+	* [知乎](http://www.zhihu.com/)
 
 ### 影音视听
 
@@ -371,9 +373,9 @@
 * Online Judge
 
 	* [POJ](http://poj.org/)
-	* [topcoder](http://www.topcoder.com/)
+	* [Topcoder](http://www.topcoder.com/)
 	* [OpenJudge](http://openjudge.cn/)
-	* [杭电](http://acm.hdu.edu.cn/)
+	* [HDOJ](http://acm.hdu.edu.cn/)
 	* [UVa](http://uva.onlinejudge.org/)
 	* [Codeforces](http://codeforces.com/)
 	* [ZOJ](http://acm.zju.edu.cn/onlinejudge/)
@@ -420,11 +422,14 @@
 
 * 技术博客
 
-	* OI/ACM竞赛
+	* ACM/ICPC竞赛
 
 		* [kuangbin博客](http://www.kuangbin.net/)
-		* [WJMZBMR博客](http://wjmzbmr.com/)
+		* [陈立杰博客](http://wjmzbmr.com/)
 		* [Barty's Blog](http://barty.ws/)
+		* [巫泽俊博客 *ACM/ICPC 世界冠军*](http://blog.watashi.ws/)
+		* [陈伟杰博客](http://edward-mj.com/)
+		* [唐飞虎博客](http://www.shuizilong.com/house/)
 
 	* 编程开发
 
@@ -482,7 +487,9 @@
 * 业界资讯
 
 	* [cnBeta](http://www.cnbeta.com/)
+	* [TheVerge](http://www.theverge.com/)
 	* [Engadget](http://cn.engadget.com/)
+	* [ifanr](http://www.ifanr.com/)
 	* [外刊IT评论](http://www.vaikan.com/)
 	* [Hacker News](https://news.ycombinator.com/)
 	* [极客公园](http://www.geekpark.net/)
