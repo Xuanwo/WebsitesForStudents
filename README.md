@@ -109,6 +109,7 @@
 	* [slack](https://slack.com/)
 	* [GITTER](https://gitter.im/)
 	* [Trello](https://trello.com/)
+	* [pizza文件传输网站](http://file.pizza)
 
 * RSS工具
 
@@ -180,6 +181,7 @@
 	* [MacTalk *池建强的随想录——关注技术和人文*](http://macshuo.com/)
 	* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
 	* [Deciphering Glyph](https://glyph.twistedmatrix.com/)
+	* [V2EX程序员交流分享网站](http://www.v2ex.com)
 
 * 旅游
 
