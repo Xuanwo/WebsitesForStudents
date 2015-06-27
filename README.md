@@ -255,6 +255,7 @@
 	* [Stack Exchange *知识交流分享*](https://stackexchange.com/)
 	* [Quora-Your Best Source for Knowledge](https://www.quora.com/)
 	* [知乎](http://www.zhihu.com/)
+	* [segmentfault](http://segmentfault.com)
 
 ### 影音视听
 
