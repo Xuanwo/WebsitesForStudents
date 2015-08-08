@@ -181,7 +181,6 @@
 	* [MacTalk *池建强的随想录——关注技术和人文*](http://macshuo.com/)
 	* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
 	* [Deciphering Glyph](https://glyph.twistedmatrix.com/)
-	* [V2EX程序员交流分享网站](http://www.v2ex.com)
 
 * 旅游
 
@@ -256,6 +255,10 @@
 	* [Quora-Your Best Source for Knowledge](https://www.quora.com/)
 	* [知乎](http://www.zhihu.com/)
 	* [segmentfault](http://segmentfault.com)
+
+* 在线社区
+	
+	* [V2EX *way to explore*](http://www.v2ex.com)
 
 ### 影音视听
 
