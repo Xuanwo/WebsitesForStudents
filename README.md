@@ -244,6 +244,7 @@
 
 	* [Google Keep](https://keep.google.com/)
 	* [Wunderlist](https://www.wunderlist.com/)
+	* [Doit.im](http://doit.im/)
 
 <div id="1.6"></div>
 ### 社交应用
