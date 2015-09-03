@@ -18,7 +18,7 @@
 ### 交流
 欢迎大家将珍藏已久的好网站共享出来，您可以：
 
-* 使用 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues) 
+* 使用 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues)
 * 使用 [Pull Request](https://github.com/Xuanwo/WebsitesForStudents/pulls)
 * 使用 [![Gitter](http://xuanwo.qiniudn.com/Join%20Chat.svg)](https://gitter.im/Xuanwo/WebsitesForStudents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)进行在线交流
 
@@ -49,7 +49,7 @@
 	* [医学](#2.10)
 	* [管理学](#2.11)
 
----	
+---
 <div id="1"></div>
 ## 专业无关类
 
@@ -61,19 +61,17 @@
 	* [中国知网](http://www.cnki.net/)
 
 * 学术文档搜索
-	
+
 	* [ISBN 数据库](http://isbndb.com/)
 	* [谷歌学术搜索](http://scholar.google.com/)
 
-<div id="1.2"></div>	
+<div id="1.2"></div>
 ### 常用工具
 
 * 科学上网工具
 
 	* [Lantern](https://getlantern.org/)
 	* [VPN Gate](http://www.vpngate.net/en/)
-	* [imouto.host](https://github.com/zxdrive/imouto.host)
-	* [shadowsocks](https://github.com/clowwindy/shadowsocks)
 
 * 文档类工具
 
@@ -82,7 +80,7 @@
 		* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
 		* [PDF合并](http://www.pdfmerge.com/)
 		* [PDF转换](http://www.freepdfconvert.com/)
-	
+
 	* Markdown
 
 		* [StackEdit](https://stackedit.io/)
@@ -103,7 +101,7 @@
 	* 模板
 
 		* [乔布简历 *提供简历下载与定制*](http://cv.qiaobutang.com/)
-	
+
 * 团队协作
 
 	* [slack](https://slack.com/)
@@ -259,7 +257,7 @@
 	* [segmentfault](http://segmentfault.com)
 
 * 在线社区
-	
+
 	* [V2EX *way to explore*](http://www.v2ex.com)
 
 ### 影音视听
@@ -316,7 +314,7 @@
 ### 历史学
 
 * 工具
-	
+
 	* [两千年中西历转换](http://sinocal.sinica.edu.tw/)
 
 <div id="2.4"></div>
@@ -349,7 +347,7 @@
 	* [Calligraphy Skills *英语书法*](http://www.calligraphy-skills.com/)
 
 * 免费公版书
-    
+
 	* [Free ebooks - Project Gutenberg](http://www.gutenberg.org/)
 
 
@@ -480,7 +478,7 @@
 
 
 * 娱乐工具
-	
+
 	* [Hackertyper *自动生成代码的打印机*](http://www.webhek.com/misc/hackertyper/)
 
 * 网站工具
