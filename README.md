@@ -162,6 +162,7 @@
 	* [MoviePanda *在线电影观看*](http://www.moviepanda.tv/)
 	* [PopcornTime *在线电视及电影观看*](https://popcorntime.io/)
 	* [what-if *有趣的文字漫画*](http://xkcd.com/)
+	* [指影 *很良心的电影点评分享推荐网站*](http://zhiying.me)
 
 <div id="1.3"></div>
 ### 博客日志
