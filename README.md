@@ -140,6 +140,8 @@
 	* 翻译
 
 		* [MyMemory](http://mymemory.translated.net/)
+        * [Google 翻译](https://translate.google.com/)
+        * [百度翻译](http://fanyi.baidu.com/)
 
 * 云存储工具
 
