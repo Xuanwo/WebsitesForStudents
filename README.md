@@ -131,6 +131,7 @@
 		* [英文单词近义词 反义词](http://www.thesaurus.com/)
 		* [俚语词典](http://onlineslangdictionary.com/)
 		* [俚语方言](http://www.urbandictionary.com/)
+        * [海词词典](http://dict.cn/)
 
 	* 汉语
 
