@@ -18,9 +18,8 @@
 ### 交流
 欢迎大家将珍藏已久的好网站共享出来，您可以：
 
-* 使用 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues)
-* 使用 [Pull Request](https://github.com/Xuanwo/WebsitesForStudents/pulls)
-* 使用 [![Gitter](http://xuanwo.qiniudn.com/Join%20Chat.svg)](https://gitter.im/Xuanwo/WebsitesForStudents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)进行在线交流
+* 提交 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues/new)
+* 发起 [Pull Request](https://github.com/Xuanwo/WebsitesForStudents/compare)
 
 贡献者名单: https://github.com/Xuanwo/WebsitesForStudents/graphs/contributors
 
