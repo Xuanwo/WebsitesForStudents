@@ -166,6 +166,9 @@
 	* [what-if *有趣的文字漫画*](http://xkcd.com/)
 	* [指影 *很良心的电影点评分享推荐网站*](http://zhiying.me)
 
+* 实用工具
+	* [Karabiner *键盘映射*](https://pqrs.org/osx/karabiner/)
+	* [f.lux *自动调整屏幕亮度*](https://justgetflux.com)
 <div id="1.3"></div>
 ### 博客日志
 
