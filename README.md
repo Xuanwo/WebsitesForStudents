@@ -415,7 +415,7 @@
 	* [Bitbucket](https://bitbucket.org)
 	* [Google Code](https://code.google.com/)
 	* [开源中国](http://www.oschina.net/)
-	* [Coding](https://coding.net/home.html)
+	* [Coding](https://coding.net)
 	* [GitCafe](https://gitcafe.com/)
 	* [CSDN](http://code.csdn.net/)
 
