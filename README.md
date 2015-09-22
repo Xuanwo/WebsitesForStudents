@@ -411,11 +411,11 @@
 
 * 开源世界 & 代码托管
 
-	* [Github](https://github.com/)
+	* [GitHub](https://github.com/)
 	* [Bitbucket](https://bitbucket.org)
 	* [Google Code](https://code.google.com/)
 	* [开源中国](http://www.oschina.net/)
-	* [CODING](https://coding.net/home.html)
+	* [Coding](https://coding.net/home.html)
 	* [GitCafe](https://gitcafe.com/)
 	* [CSDN](http://code.csdn.net/)
 
@@ -507,6 +507,7 @@
 	* [ifanr](http://www.ifanr.com/)
 	* [外刊IT评论](http://www.vaikan.com/)
 	* [Hacker News](https://news.ycombinator.com/)
+	* [一点情怀 （中国版 HN）](https://1.qinghuai.org)
 	* [极客公园](http://www.geekpark.net/)
 	* [极客范](http://www.geekfan.net/)
 
