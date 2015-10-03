@@ -120,6 +120,10 @@
 	* [Tapirgo *通过RSS为静态网站添加搜索功能*](http://tapirgo.com/)
 	* [Mailp.in *将邮件转化为网页*](http://mailp.in/)
 
+* 资源共享
+
+    * [北邮人PT](http://bt.byr.cn)
+
 
 * 字典词典 & 翻译工具
 
