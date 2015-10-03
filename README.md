@@ -398,6 +398,8 @@
 	* [CodeVS](http://codevs.cn/)
 	* [Vijos](https://vijos.org/)
 	* [ProjectEuler](https://projecteuler.net/)
+    * [LintCode](http://www.lintcode.com/)
+    * [hihoCoder](http://hihocoder.com/)
 
 * 在线文档 & Cheat Sheet
 
