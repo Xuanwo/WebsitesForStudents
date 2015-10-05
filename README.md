@@ -517,6 +517,10 @@
 	* [极客公园](http://www.geekpark.net/)
 	* [极客范](http://www.geekfan.net/)
 
+* 求职面试
+
+    * [七月算法](http://www.julyedu.com/)
+    * [牛客网](http://www.nowcoder.com/)
 
 <div id="2.9"></div>
 ### 农学
