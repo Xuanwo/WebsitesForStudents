@@ -521,6 +521,8 @@
 
     * [七月算法](http://www.julyedu.com/)
     * [牛客网](http://www.nowcoder.com/)
+    * [九章算法](http://www.jiuzhang.com/)
+    * [拉勾网](http://www.lagou.com/)
 
 <div id="2.9"></div>
 ### 农学
