@@ -432,6 +432,7 @@
 		* [Worm.cc *网络安全blog*](http://worm.cc/)
 		* [Evi1m0 *安全圈的大牛*](http://evilsay.cc/)
 		* [Hacker Soul](http://www.hackersoul.com/)
+		* [黑客与极客](http://www.freebuf.com/)
 
 
 * 娱乐工具
