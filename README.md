@@ -123,11 +123,6 @@
 	* [Tapirgo *通过RSS为静态网站添加搜索功能*](http://tapirgo.com/)
 	* [Mailp.in *将邮件转化为网页*](http://mailp.in/)
 
-* 资源共享
-
-    * [北邮人PT](http://bt.byr.cn)
-
-
 * 字典词典 & 翻译工具
 
 	* 英语
@@ -285,6 +280,13 @@
 <div id="1.8"></div>
 ### 资源下载
 
+* 私有共享
+
+    * [北邮人PT](http://bt.byr.cn)
+
+* 素材资源
+
+    * [dribbble](https://dribbble.com/)
 
 ---
 
