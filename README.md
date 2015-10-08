@@ -63,6 +63,7 @@
 
 	* [ISBN 数据库](http://isbndb.com/)
 	* [谷歌学术搜索](http://scholar.google.com/)
+    * [Sci-Hub](http://www.sci-hub.org/)
 
 <div id="1.2"></div>
 ### 常用工具
