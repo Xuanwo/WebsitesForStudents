@@ -18,9 +18,8 @@
 ### 交流
 欢迎大家将珍藏已久的好网站共享出来，您可以：
 
-* 使用 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues)
-* 使用 [Pull Request](https://github.com/Xuanwo/WebsitesForStudents/pulls)
-* 使用 [![Gitter](http://xuanwo.qiniudn.com/Join%20Chat.svg)](https://gitter.im/Xuanwo/WebsitesForStudents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)进行在线交流
+* 提交 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues/new)
+* 发起 [Pull Request](https://github.com/Xuanwo/WebsitesForStudents/compare)
 
 贡献者名单: https://github.com/Xuanwo/WebsitesForStudents/graphs/contributors
 
@@ -34,6 +33,8 @@
 	* [网络教育](#1.4)
 	* [个人管理](#1.5)
 	* [社交应用](#1.6)
+    * [影音视听](#1.7)
+    * [资源下载](#1.8)
 
 * [专业相关类](#2)
 
@@ -64,6 +65,7 @@
 
 	* [ISBN 数据库](http://isbndb.com/)
 	* [谷歌学术搜索](http://scholar.google.com/)
+    * [Sci-Hub](http://www.sci-hub.org/)
 
 <div id="1.2"></div>
 ### 常用工具
@@ -72,8 +74,6 @@
 
 	* [Lantern](https://getlantern.org/)
 	* [VPN Gate](http://www.vpngate.net/en/)
-	* [imouto.host](https://github.com/zxdrive/imouto.host)
-	* [shadowsocks](https://github.com/clowwindy/shadowsocks)
 
 * 文档类工具
 
@@ -86,10 +86,12 @@
 	* Markdown
 
 		* [StackEdit](https://stackedit.io/)
+		* [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
 
 	* LaTeX
 
 		* [writeLaTeX](https://www.writelatex.com/)
+		* [sharelatex *在线Latex编辑与分享*](https://www.sharelatex.com/)
 
 	* 论文格式工具
 
@@ -121,7 +123,6 @@
 	* [Tapirgo *通过RSS为静态网站添加搜索功能*](http://tapirgo.com/)
 	* [Mailp.in *将邮件转化为网页*](http://mailp.in/)
 
-
 * 字典词典 & 翻译工具
 
 	* 英语
@@ -132,6 +133,7 @@
 		* [英文单词近义词 反义词](http://www.thesaurus.com/)
 		* [俚语词典](http://onlineslangdictionary.com/)
 		* [俚语方言](http://www.urbandictionary.com/)
+        * [海词词典](http://dict.cn/)
 
 	* 汉语
 
@@ -141,6 +143,8 @@
 	* 翻译
 
 		* [MyMemory](http://mymemory.translated.net/)
+        * [Google 翻译](https://translate.google.com/)
+        * [百度翻译](http://fanyi.baidu.com/)
 
 * 云存储工具
 
@@ -156,17 +160,15 @@
 * 系统工具
 
 	* [FileInfo *文件后缀名信息查询*](http://www.fileinfo.com/)
+    * [Karabiner *键盘映射 only for Mac*](https://pqrs.org/osx/karabiner/)
+    * [f.lux *自动调整屏幕亮度*](https://justgetflux.com)
 
 * 娱乐工具
 
-	* [MoviePanda *在线电影观看*](http://www.moviepanda.tv/)
 	* [PopcornTime *在线电视及电影观看*](https://popcorntime.io/)
 	* [what-if *有趣的文字漫画*](http://xkcd.com/)
 	* [指影 *很良心的电影点评分享推荐网站*](http://zhiying.me)
 
-* 实用工具
-	* [Karabiner *键盘映射*](https://pqrs.org/osx/karabiner/)
-	* [f.lux *自动调整屏幕亮度*](https://justgetflux.com)
 <div id="1.3"></div>
 ### 博客日志
 
@@ -198,6 +200,7 @@
 * 教育
 
 * 校园
+
 	* [奔走美国 *关于美国留学的博客*](http://blog.sina.com.cn/u/1478563674)
 
 * 游戏
@@ -266,11 +269,23 @@
 
 	* [V2EX *way to explore*](http://www.v2ex.com)
 
+<div id="1.7"></div>
 ### 影音视听
 
 * 外剧社区
 
 	* [天涯小筑 *您通向英语电视世界的中文门户*](http://tvfantasy.net/)
+
+<div id="1.8"></div>
+### 资源下载
+
+* 私有共享
+
+    * [北邮人PT](http://bt.byr.cn)
+
+* 素材资源
+
+    * [dribbble](https://dribbble.com/)
 
 ---
 
@@ -396,6 +411,8 @@
 	* [CodeVS](http://codevs.cn/)
 	* [Vijos](https://vijos.org/)
 	* [ProjectEuler](https://projecteuler.net/)
+    * [LintCode](http://www.lintcode.com/)
+    * [hihoCoder](http://hihocoder.com/)
 
 * 在线文档 & Cheat Sheet
 
@@ -409,11 +426,11 @@
 
 * 开源世界 & 代码托管
 
-	* [Github](https://github.com/)
+	* [GitHub](https://github.com/)
 	* [Bitbucket](https://bitbucket.org)
 	* [Google Code](https://code.google.com/)
 	* [开源中国](http://www.oschina.net/)
-	* [CODING](https://coding.net/home.html)
+	* [Coding](https://coding.net)
 	* [GitCafe](https://gitcafe.com/)
 	* [CSDN](http://code.csdn.net/)
 
@@ -481,6 +498,7 @@
 		* [Worm.cc *网络安全blog*](http://worm.cc/)
 		* [Evi1m0 *安全圈的大牛*](http://evilsay.cc/)
 		* [Hacker Soul](http://www.hackersoul.com/)
+		* [黑客与极客](http://www.freebuf.com/)
 
 
 * 娱乐工具
@@ -505,9 +523,16 @@
 	* [ifanr](http://www.ifanr.com/)
 	* [外刊IT评论](http://www.vaikan.com/)
 	* [Hacker News](https://news.ycombinator.com/)
+	* [一点情怀 （中国版 HN）](https://1.qinghuai.org)
 	* [极客公园](http://www.geekpark.net/)
 	* [极客范](http://www.geekfan.net/)
 
+* 求职面试
+
+    * [七月算法](http://www.julyedu.com/)
+    * [牛客网](http://www.nowcoder.com/)
+    * [九章算法](http://www.jiuzhang.com/)
+    * [拉勾网](http://www.lagou.com/)
 
 <div id="2.9"></div>
 ### 农学
