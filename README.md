@@ -441,6 +441,8 @@
 	* [在线编译(codepad.org)](http://codepad.org/)
 	* [Online Code Editor(Codeanywhere)](https://codeanywhere.net/)
 	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
+	* [常用API在线索引](http://tool.oschina.net/apidocs/)
+	* [Dash API离线查询工具 only for mac](https://kapeli.com/dash)
 
 * 测试工具
 
