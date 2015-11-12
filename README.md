@@ -74,6 +74,7 @@
 
 	* [Lantern](https://getlantern.org/)
 	* [VPN Gate](http://www.vpngate.net/en/)
+	* [Shadowsocks](http://shadowsocks.com/)
 
 * 文档类工具
 
