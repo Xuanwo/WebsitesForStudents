@@ -21,6 +21,6 @@ with open('sites.txt') as site:
                 if r.status_code == requests.codes.ok:
                     print("go")
                 else:
-                    print("need verify！")
+                    print("need verify!")
         if time == 3:
             exit(1)
