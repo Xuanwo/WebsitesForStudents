@@ -12,7 +12,7 @@ with open('sites.txt') as site:
     for i in site:
         print(i[:len(i)-1])
         time = 0
-        for t in 3:
+        for t in range(3):
             try:
                 r = requests.get(i[:len(i)-1], timeout=10, headers=headers)
             except:
