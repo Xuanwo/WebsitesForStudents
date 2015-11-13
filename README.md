@@ -72,7 +72,6 @@
 
 * 科学上网工具
 
-	* [Lantern](https://getlantern.org/)
 	* [VPN Gate](http://www.vpngate.net/en/)
 	* [Shadowsocks](http://shadowsocks.com/)
 
