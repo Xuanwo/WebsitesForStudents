@@ -20,7 +20,9 @@ with open('sites.txt') as site:
             else:
                 if r.status_code == requests.codes.ok:
                     print("go")
+                    break
                 else:
                     print("need verify!")
+                    break
         if time == 3:
             exit(1)
