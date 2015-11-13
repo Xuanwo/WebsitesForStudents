@@ -11,12 +11,16 @@ headers = {
 with open('sites.txt') as site:
     for i in site:
         print(i[:len(i)-1])
-        try:
-            r = requests.get(i[:len(i)-1], timeout=10, headers=headers)
-        except:
-           exit(1)
-        else:
-            if r.status_code == requests.codes.ok:
-                print("go")
+        time = 0
+        for t in 3:
+            try:
+                r = requests.get(i[:len(i)-1], timeout=10, headers=headers)
+            except:
+               time += 1
             else:
-                print("need verify！")
+                if r.status_code == requests.codes.ok:
+                    print("go")
+                else:
+                    print("need verify！")
+        if time == 3:
+            exit(1)
