@@ -1,4 +1,4 @@
-大学生网站集合
+大学生网站集合[![Build Status](https://travis-ci.org/Xuanwo/WebsitesForStudents.svg)](https://travis-ci.org/Xuanwo/WebsitesForStudents)
 ===================
 ### 简介
 本库旨在建设一个对大学生有益有用的网站集合，欢迎参与编辑。
