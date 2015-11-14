@@ -14,6 +14,7 @@ before_install:
 - cp ssh_config ~/.ssh/config
 - git config --global user.name "Xuanwo"
 - git config --global user.email "xuanwo.cn@gmail.com"
+- git config --global push.default simple
 
 install:
 - pip install requests
