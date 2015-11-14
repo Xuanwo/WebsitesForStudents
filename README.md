@@ -78,7 +78,7 @@
 
 	* PDF
 
-		* [PDF压缩](http://smallpdf.com/cn/compress-pdf)
+		* [Smallpdf *轻松玩转PDF*](http://smallpdf.com/cn)
 		* [PDF合并](http://www.pdfmerge.com/)
 		* [PDF转换](http://www.freepdfconvert.com/)
 
@@ -285,7 +285,7 @@
 
     * [dribbble 设计相关](https://dribbble.com/)
     * [iconfont icon图标下载](http://www.iconfont.cn)
-    
+
 
 ---
 
