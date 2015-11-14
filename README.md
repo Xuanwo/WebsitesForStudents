@@ -440,6 +440,8 @@
 	* [Online Compiler and IDE(Ideone)](http://ideone.com/)
 	* [常用API在线索引](http://tool.oschina.net/apidocs/)
 	* [Dash API离线查询工具 only for mac](https://kapeli.com/dash)
+	* [Alfred  非常好的效率工具，不仅仅适用于编程开发](https://www.alfredapp.com)
+	* [Mou mac上非常棒的MarkDown编辑器](http://25.io/mou/)
 
 * 测试工具
 
