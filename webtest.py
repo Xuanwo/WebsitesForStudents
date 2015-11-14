@@ -14,7 +14,7 @@ with open('badsite.json') as f:
 
 with open('sites.txt') as site:
     for i in site:
-        print(i[:len(i) - 1])
+        print(i[:len(i) - 1])  # remove the '\n'
         try:
             r = requests.get(i[:len(i) - 1], timeout=10, headers=headers)
         except:
