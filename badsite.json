@@ -1,13 +1,18 @@
 {
-    "http://www.hackersoul.com/": 1,
-    "https://www.shiyanlou.com": 1,
-    "http://bbs.pinggu.org/": 1,
-    "http://evilsay.cc/": 1,
-    "http://taosay.net/": 1,
-    "http://www.boydwang.com/": 1,
-    "http://edward-mj.com/": 1,
+    "http://www.oschina.net/": 1,
+    "http://www.cnblogs.com/index-html": 1,
+    "http://bbs.pinggu.org/": 2,
     "http://fanyi.baidu.com/": 1,
-    "http://bt.byr.cn": 1,
-    "http://www.hexun.com/": 1,
-    "http://www.yeeyan.org/": 1
+    "http://www.boydwang.com/": 1,
+    "http://www.julyedu.com/": 1,
+    "http://www.yeeyan.org/": 2,
+    "http://www.hexun.com/": 2,
+    "http://www.hackersoul.com/": 1,
+    "http://www.cnki.net/": 1,
+    "https://www.shiyanlou.com": 1,
+    "http://edward-mj.com/": 2,
+    "http://bt.byr.cn": 2,
+    "http://taosay.net/": 2,
+    "http://evilsay.cc/": 2,
+    "http://www.eeo.com.cn/": 1
 }
