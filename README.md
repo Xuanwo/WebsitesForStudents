@@ -502,6 +502,7 @@
 		* [Coding Horror](http://blog.codinghorror.com/)
 		* [Joel On Software *stackoverflow cofounder's blog*](http://www.joelonsoftware.com/)
 		* [Github 一名女员工写的Git教程](http://jlord.us/git-it/)
+        * [Keep Writing Codes](http://liujiacai.net/)
 
 	* 网络 & 安全
 		* [Worm.cc *网络安全blog*](http://worm.cc/)
