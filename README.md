@@ -184,6 +184,7 @@
 	* [MacTalk *池建强的随想录——关注技术和人文*](http://macshuo.com/)
 	* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
 	* [Deciphering Glyph](https://glyph.twistedmatrix.com/)
+    * [虎兔手记](http://notes.localhost-8080.com/)
 
 * 旅游
 
