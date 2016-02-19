@@ -513,6 +513,7 @@
 * 娱乐工具
 
 	* [Hackertyper *自动生成代码的打印机*](http://www.webhek.com/misc/hackertyper/)
+    * [NORSE *实时网络攻击动态*](http://map.norsecorp.com/)
 
 * 网站工具
 
