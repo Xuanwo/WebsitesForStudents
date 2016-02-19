@@ -273,6 +273,7 @@
 * 外剧社区
 
 	* [天涯小筑 *您通向英语电视世界的中文门户*](http://tvfantasy.net/)
+    * [Ted2Srt *TED视频字幕下载*](https://ted2srt.org/)
 
 <div id="1.8"></div>
 ### 资源下载
