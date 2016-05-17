@@ -220,6 +220,8 @@
 	* [Udemy](https://www.udemy.com/)
 	* [novoED](https://novoed.com/)
 	* [BOUNDLESS *在线测试，PPT，作业平台，收费*](https://www.boundless.com/)
+	* [W3School](http://www.w3school.com.cn/)
+	* [RUNOOB菜鸟教程](http://www.runoob.com/)
 
 * 在线编程练习
 
@@ -228,6 +230,7 @@
 	* [bento](https://www.bento.io/)
 	* [Codefights *在线代码竞技*](https://codefights.com/)
 	* [实验楼](https://www.shiyanlou.com)
+	* [PAT](https://www.patest.cn/)
 
 * 视频教学
 
@@ -281,6 +284,7 @@
 * 私有共享
 
     * [北邮人PT](http://bt.byr.cn)
+    * [六维空间](http://bt.neu6.edu.cn/)
 
 * 素材资源
 
@@ -547,6 +551,7 @@
     * [牛客网](http://www.nowcoder.com/)
     * [九章算法](http://www.jiuzhang.com/)
     * [拉勾网](http://www.lagou.com/)
+    * [实习僧](http://www.shixiseng.com/)
 
 <div id="2.9"></div>
 ### 农学
