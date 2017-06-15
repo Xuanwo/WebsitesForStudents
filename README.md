@@ -245,6 +245,7 @@
 	* [Codefights *在线代码竞技*](https://codefights.com/)
 	* [实验楼](https://www.shiyanlou.com)
 	* [PAT](https://www.patest.cn/)
+    * [freeCodeCamp *FreeCodeCamp，像打魔兽一样学编程！*](https://freecodecamp.cn/)
 
 * 视频教学
 
