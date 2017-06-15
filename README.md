@@ -1,9 +1,14 @@
-大学生网站集合[![Build Status](https://travis-ci.org/Xuanwo/WebsitesForStudents.svg)](https://travis-ci.org/Xuanwo/WebsitesForStudents)
-===================
+## 大学生网站集合
+
+[![Build Status](https://travis-ci.org/Xuanwo/WebsitesForStudents.svg)](https://travis-ci.org/Xuanwo/WebsitesForStudents)
+
+---
+
 ### 简介
+
 本库旨在建设一个对大学生有益有用的网站集合，欢迎参与编辑。
 
-###	标准
+### 标准
 
 - 有益：大学生就业指导，技能学习。
 - 有用：常用的一些在线工具或者技巧。
@@ -18,6 +23,7 @@
 - 如果出现网页失效，请提交issues。
 
 ### 交流
+
 欢迎大家将珍藏已久的好网站共享出来，您可以：
 
 * 提交 [Issues](https://github.com/Xuanwo/WebsitesForStudents/issues/new)
@@ -53,10 +59,13 @@
 	* [管理学](#2.11)
 
 ---
+
 <div id="1"></div>
+
 ## 专业无关类
 
 <div id="1.1"></div>
+
 ### 学术文献
 
 * 学术期刊
@@ -69,6 +78,7 @@
 	* [谷歌学术搜索](http://scholar.google.com/)
 
 <div id="1.2"></div>
+
 ### 常用工具
 
 * 科学上网工具
@@ -169,6 +179,7 @@
 	* [指影 *很良心的电影点评分享推荐网站*](http://zhiying.me)
 
 <div id="1.3"></div>
+
 ### 博客日志
 
 * 文化
@@ -206,6 +217,7 @@
 * 游戏
 
 <div id="1.4"></div>
+
 ### 网络教育
 
 * 互动式教育
@@ -244,6 +256,7 @@
 	* [果壳](http://www.guokr.com/)
 
 <div id="1.5"></div>
+
 ### 个人管理
 
 * 时间管理
@@ -258,6 +271,7 @@
 	* [滴答清单](https://www.dida365.com/)
 
 <div id="1.6"></div>
+
 ### 社交应用
 
 * 在线问答
@@ -273,6 +287,7 @@
 	* [V2EX *way to explore*](http://www.v2ex.com)
 
 <div id="1.7"></div>
+
 ### 影音视听
 
 * 外剧社区
@@ -281,6 +296,7 @@
     * [TED2Srt *TED视频字幕下载*](https://ted2srt.org/)
 
 <div id="1.8"></div>
+
 ### 资源下载
 
 * 私有共享
@@ -299,9 +315,11 @@
 ---
 
 <div id="2"></div>
+
 ## 专业相关类
 
 <div id="2.1"></div>
+
 ### 哲学
 
 * 书籍
@@ -309,6 +327,7 @@
 	* [中国哲学书电子化计划](http://ctext.org/zh/)
 
 <div id="2.2"></div>
+
 ### 经济学
 
 * 门户
@@ -341,6 +360,7 @@
 	* [HowTheMarketWorks *模拟股市经营*](http://www.howthemarketworks.com/)
 
 <div id="2.3"></div>
+
 ### 历史学
 
 * 工具
@@ -348,9 +368,11 @@
 	* [两千年中西历转换](http://sinocal.sinica.edu.tw/)
 
 <div id="2.4"></div>
+
 ### 法学
 
 <div id="2.5"></div>
+
 ### 教育学
 
 * 语言教育
@@ -366,6 +388,7 @@
 
 
 <div id="2.6"></div>
+
 ### 文学
 
 * 阅读分享
@@ -382,6 +405,7 @@
 
 
 <div id="2.7"></div>
+
 ### 理学
 
 * 生物
@@ -405,6 +429,7 @@
 
 
 <div id="2.8"></div>
+
 ### 工学
 
 * Online Judge
@@ -554,9 +579,11 @@
     * [实习僧](http://www.shixiseng.com/)
 
 <div id="2.9"></div>
+
 ### 农学
 
 <div id="2.10"></div>
+
 ### 医学
 
 * 医学类门户网站
@@ -564,4 +591,6 @@
      * [丁香园](http://www.dxy.cn/)
 
 <div id="2.11"></div>
+
 ### 管理学
+
