@@ -98,6 +98,8 @@
 
     * [StackEdit](https://stackedit.io/)
     * [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
+    * [Typora](https://typora.io/)
+    * [Yu Writer](https://ivarptr.github.io/yu-writer.site/)
 
   * LaTeX
 
@@ -160,6 +162,7 @@
 
   * [MultCloud](https://www.multcloud.com/)
   * [MediaFire *提供文件同步，分享与存储*](https://www.mediafire.com/)
+  * [坚果云](https://www.jianguoyun.com)
 
 * 生活工具
 
@@ -172,6 +175,7 @@
   * [FileInfo *文件后缀名信息查询*](http://www.fileinfo.com/)
     * [Karabiner *键盘映射 only for Mac*](https://pqrs.org/osx/karabiner/)
     * [f.lux *自动调整屏幕亮度*](https://justgetflux.com)
+  * [Wox 高效的Windows启动器](http://www.wox.one/)
 
 * 娱乐工具
 
@@ -183,37 +187,29 @@
 ### 博客日志
 
 * 文化
-
 * 娱乐
 
   * [名人排名系统](http://pantheon.media.mit.edu/)
-
 * 时评
-
 * 体育
-
+  * [腾讯 NBA](http://sports.qq.com/nba/)
+  * [虎扑篮球](https://nba.hupu.com/)
 * IT
 
   * [MacTalk *池建强的随想录——关注技术和人文*](http://macshuo.com/)
   * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
   * [Deciphering Glyph](https://glyph.twistedmatrix.com/)
     * [虎兔手记](http://notes.localhost-8080.com/)
-
 * 旅游
 
   * [世界全息摄影](https://www.360cities.net/)
   * [Leica 中文摄影杂志](http://www.leica.org.cn/)
-
 * 美食
-
 * 健康
-
 * 教育
-
 * 校园
 
   * [奔走美国 *关于美国留学的博客*](http://blog.sina.com.cn/u/1478563674)
-
 * 游戏
 
 <div id="1.4"></div>
@@ -236,6 +232,8 @@
   * [BOUNDLESS *在线测试，PPT，作业平台，收费*](https://www.boundless.com/)
   * [W3School](http://www.w3school.com.cn/)
   * [RUNOOB菜鸟教程](http://www.runoob.com/)
+  * [51CTO学院](http://edu.51cto.com/?wwwdh0)
+  * [PHP中文网](http://www.php.cn/)
 
 * 在线编程练习
 
@@ -251,6 +249,7 @@
 
   * [lynda](http://www.lynda.com/)
   * [网易公开课](http://open.163.com/)
+  * [博学谷](http://yun.itheima.com/)
 
 * 科普
 
@@ -304,14 +303,22 @@
 
     * [北邮人PT](http://bt.byr.cn)
     * [六维空间](http://bt.neu6.edu.cn/)
-
 * 素材资源
 
     * [dribbble 设计相关](https://dribbble.com/)
-    * [iconfont icon图标下载](http://www.iconfont.cn)
-
+    * [iconfont icon 图标下载](http://www.iconfont.cn)
+    * [easyicon](https://www.easyicon.net/)
+    * [懒人图库](http://www.lanrentuku.com/)
+    * [惊人的免费图片](https://pixabay.com/)
+    * [阿里巴巴矢量图标库](http://www.iconfont.cn/plus/search/index)
+    * [免费高分辨率图片](https://gratisography.com/)
+    * [摄影网](http://699pic.com/)
 * 电子书籍
-
+    * [PDF 之家](http://www.pdfzj.cn/)
+    * [Kindel 推](http://www.kindlepush.com/main)
+    * [PDFDRIVE](https://www.pdfdrive.net/)
+* 微软下载
+    - [MSDN, 我告诉你](https://msdn.itellyou.cn/)
 
 ---
 
@@ -516,6 +523,7 @@
     * [Jon Skeet's coding blog](http://codeblog.jonskeet.uk/)
     * [Boyd Wang's blog](http://www.boydwang.com/)
     * [服务器运维与网站架构|Linux运维|X研究](http://www.ha97.com/)
+    * [Wizey 的博客](http://wenshixin.gitee.io/blog/)
 
   * 前端开发
 
@@ -535,7 +543,8 @@
     * [Coding Horror](http://blog.codinghorror.com/)
     * [Joel On Software *stackoverflow cofounder's blog*](http://www.joelonsoftware.com/)
     * [Github 一名女员工写的Git教程](http://jlord.us/git-it/)
-        * [Keep Writing Codes](http://liujiacai.net/)
+    * [Keep Writing Codes](http://liujiacai.net/)
+    * [厦门大学 大数据实验室](http://dblab.xmu.edu.cn/blog/)
 
   * 网络 & 安全
     * [Worm.cc *网络安全blog*](http://worm.cc/)
