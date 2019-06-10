@@ -126,6 +126,8 @@
   * [slack](https://slack.com/)
   * [GITTER](https://gitter.im/)
   * [Trello](https://trello.com/)
+  * [Worktile](https://worktile.com/)
+  * [Tower](https://tower.im/)
 
 * RSS工具
 
@@ -161,6 +163,7 @@
     * [MyMemory](http://mymemory.translated.net/)
         * [Google 翻译](https://translate.google.com/)
         * [百度翻译](http://fanyi.baidu.com/)
+    * [Google译者工具包(需要科学上网)](https://translate.google.com/toolkit/list?hl=zh_CN)
 
 * 云存储工具
 
@@ -202,6 +205,7 @@
 
   * [MacTalk *池建强的随想录——关注技术和人文*](http://macshuo.com/)
   * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
+  * [小土刀](http://wdxtub.com/)
   * [Deciphering Glyph](https://glyph.twistedmatrix.com/)
     * [虎兔手记](http://notes.localhost-8080.com/)
 * 旅游
@@ -248,6 +252,7 @@
   * [实验楼](https://www.shiyanlou.com)
   * [PAT](https://www.patest.cn/)
   * [freeCodeCamp *FreeCodeCamp，像打魔兽一样学编程！*](https://freecodecamp.cn/)
+  * [Lintcode](http://www.lintcode.com/zh-cn/problem/)
 
 * 视频教学
 
@@ -273,7 +278,7 @@
   * [Wunderlist](https://www.wunderlist.com/)
   * [Doit.im](http://doit.im/)
   * [滴答清单](https://www.dida365.com/)
-
+  * [Things 3](https://culturedcode.com/things/)
 <div id="1.6"></div>
 
 ### 社交应用
@@ -310,13 +315,9 @@
 * 素材资源
 
     * [dribbble 设计相关](https://dribbble.com/)
-    * [iconfont icon 图标下载](http://www.iconfont.cn)
-    * [easyicon](https://www.easyicon.net/)
-    * [懒人图库](http://www.lanrentuku.com/)
-    * [惊人的免费图片](https://pixabay.com/)
-    * [阿里巴巴矢量图标库](http://www.iconfont.cn/plus/search/index)
-    * [免费高分辨率图片](https://gratisography.com/)
-    * [摄影网](http://699pic.com/)
+    * [iconfont icon图标下载](http://www.iconfont.cn)
+    * [Canvas](https://www.canva.com/)
+
 * 电子书籍
     * [PDF 之家](http://www.pdfzj.cn/)
     * [Kindel 推](http://www.kindlepush.com/main)
@@ -364,6 +365,7 @@
 * 数据
 
   * [Ycharts *提供专业的经济运行数据与分析服务，收费*](http://ycharts.com/)
+  * [世界银行公开数据](https://data.worldbank.org.cn/)
 
 * 工具
 
@@ -574,6 +576,7 @@
 * 硬件信息
 
   * [NotebookCheck *移动平台硬件信息*](http://www.notebookcheck.net/)
+  * [Engadget](https://www.engadget.com/)
 
 * 业界资讯
 
