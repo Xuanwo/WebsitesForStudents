@@ -4,6 +4,8 @@
 
 ---
 
+**征集愿意维护该项目的同学，之后将会创建独立组织，并 transfer 项目所有权，有意者可以提交 issue**
+
 ### 简介
 
 本库旨在建设一个对大学生有益有用的网站集合，欢迎参与编辑。
@@ -98,6 +100,8 @@
 
     * [StackEdit](https://stackedit.io/)
     * [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
+    * [Typora](https://typora.io/)
+    * [Yu Writer](https://ivarptr.github.io/yu-writer.site/)
 
   * LaTeX
 
@@ -129,11 +133,13 @@
 
   * [feedly](http://feedly.com/)
   * [G2Reader](https://www.g2reader.com)
+  * [Inoreader](https://www.inoreader.com)
 
 * 博客工具
 
   * [Tapirgo *通过RSS为静态网站添加搜索功能*](http://tapirgo.com/)
   * [Mailp.in *将邮件转化为网页*](http://mailp.in/)
+  * [Hexo *可配合GitPage使用的博客框架](https://hexo.io/)
 
 * 字典词典 & 翻译工具
 
@@ -163,7 +169,7 @@
 
   * [MultCloud](https://www.multcloud.com/)
   * [MediaFire *提供文件同步，分享与存储*](https://www.mediafire.com/)
-  * [坚果云](https://www.jianguoyun.com/)
+  * [坚果云](https://www.jianguoyun.com)
 
 * 生活工具
 
@@ -176,6 +182,7 @@
   * [FileInfo *文件后缀名信息查询*](http://www.fileinfo.com/)
     * [Karabiner *键盘映射 only for Mac*](https://pqrs.org/osx/karabiner/)
     * [f.lux *自动调整屏幕亮度*](https://justgetflux.com)
+  * [Wox 高效的Windows启动器](http://www.wox.one/)
 
 * 娱乐工具
 
@@ -187,15 +194,13 @@
 ### 博客日志
 
 * 文化
-
 * 娱乐
 
   * [名人排名系统](http://pantheon.media.mit.edu/)
-
 * 时评
-
 * 体育
-
+  * [腾讯 NBA](http://sports.qq.com/nba/)
+  * [虎扑篮球](https://nba.hupu.com/)
 * IT
 
   * [MacTalk *池建强的随想录——关注技术和人文*](http://macshuo.com/)
@@ -203,22 +208,16 @@
   * [小土刀](http://wdxtub.com/)
   * [Deciphering Glyph](https://glyph.twistedmatrix.com/)
     * [虎兔手记](http://notes.localhost-8080.com/)
-
 * 旅游
 
   * [世界全息摄影](https://www.360cities.net/)
   * [Leica 中文摄影杂志](http://www.leica.org.cn/)
-
 * 美食
-
 * 健康
-
 * 教育
-
 * 校园
 
   * [奔走美国 *关于美国留学的博客*](http://blog.sina.com.cn/u/1478563674)
-
 * 游戏
 
 <div id="1.4"></div>
@@ -241,6 +240,8 @@
   * [BOUNDLESS *在线测试，PPT，作业平台，收费*](https://www.boundless.com/)
   * [W3School](http://www.w3school.com.cn/)
   * [RUNOOB菜鸟教程](http://www.runoob.com/)
+  * [51CTO学院](http://edu.51cto.com/?wwwdh0)
+  * [PHP中文网](http://www.php.cn/)
 
 * 在线编程练习
 
@@ -257,6 +258,7 @@
 
   * [lynda](http://www.lynda.com/)
   * [网易公开课](http://open.163.com/)
+  * [博学谷](http://yun.itheima.com/)
 
 * 科普
 
@@ -310,7 +312,6 @@
 
     * [北邮人PT](http://bt.byr.cn)
     * [六维空间](http://bt.neu6.edu.cn/)
-
 * 素材资源
 
     * [dribbble 设计相关](https://dribbble.com/)
@@ -318,7 +319,11 @@
     * [Canvas](https://www.canva.com/)
 
 * 电子书籍
-
+    * [PDF 之家](http://www.pdfzj.cn/)
+    * [Kindel 推](http://www.kindlepush.com/main)
+    * [PDFDRIVE](https://www.pdfdrive.net/)
+* 微软下载
+    - [MSDN, 我告诉你](https://msdn.itellyou.cn/)
 
 ---
 
@@ -411,6 +416,8 @@
 * 免费公版书
 
   * [Free ebooks - Project Gutenberg](http://www.gutenberg.org/)
+  * [译言古登堡计划](http://g.yeeyan.org/)
+  * [The Complete Works of William Shakespeare](http://shakespeare.mit.edu/)
 
 
 <div id="2.7"></div>
@@ -466,6 +473,7 @@
   * [DZone](http://refcardz.dzone.com/)
   * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
   * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
+  * [All It eBooks](http://www.allitebooks.com/)
     * [廖雪峰 Python 2.7 教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
     * [廖雪峰 Python 3 教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
@@ -524,6 +532,7 @@
     * [Jon Skeet's coding blog](http://codeblog.jonskeet.uk/)
     * [Boyd Wang's blog](http://www.boydwang.com/)
     * [服务器运维与网站架构|Linux运维|X研究](http://www.ha97.com/)
+    * [Wizey 的博客](http://wenshixin.gitee.io/blog/)
 
   * 前端开发
 
@@ -543,7 +552,8 @@
     * [Coding Horror](http://blog.codinghorror.com/)
     * [Joel On Software *stackoverflow cofounder's blog*](http://www.joelonsoftware.com/)
     * [Github 一名女员工写的Git教程](http://jlord.us/git-it/)
-        * [Keep Writing Codes](http://liujiacai.net/)
+    * [Keep Writing Codes](http://liujiacai.net/)
+    * [厦门大学 大数据实验室](http://dblab.xmu.edu.cn/blog/)
 
   * 网络 & 安全
     * [Worm.cc *网络安全blog*](http://worm.cc/)
