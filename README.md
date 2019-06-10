@@ -131,11 +131,13 @@
 
   * [feedly](http://feedly.com/)
   * [G2Reader](https://www.g2reader.com)
+  * [Inoreader](https://www.inoreader.com)
 
 * 博客工具
 
   * [Tapirgo *通过RSS为静态网站添加搜索功能*](http://tapirgo.com/)
   * [Mailp.in *将邮件转化为网页*](http://mailp.in/)
+  * [Hexo *可配合GitPage使用的博客框架](https://hexo.io/)
 
 * 字典词典 & 翻译工具
 
@@ -412,6 +414,8 @@
 * 免费公版书
 
   * [Free ebooks - Project Gutenberg](http://www.gutenberg.org/)
+  * [译言古登堡计划](http://g.yeeyan.org/)
+  * [The Complete Works of William Shakespeare](http://shakespeare.mit.edu/)
 
 
 <div id="2.7"></div>
@@ -467,6 +471,7 @@
   * [DZone](http://refcardz.dzone.com/)
   * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
   * [List of Free Learning Resources](https://github.com/vhf/free-programming-books)
+  * [All It eBooks](http://www.allitebooks.com/)
     * [廖雪峰 Python 2.7 教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
     * [廖雪峰 Python 3 教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
