@@ -1,6 +1,6 @@
 # !/usr/bin/python3
 # -*- coding: utf-8 -*-
-
+#script is wriiten in python and is very good
 """
 This script is used to test websites' accessibility
 
