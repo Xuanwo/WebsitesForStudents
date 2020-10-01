@@ -1,4 +1,4 @@
-## 大学生网站集合
+STUDENT.CO_WEBSITES
 
 [![Build Status](https://travis-ci.org/Xuanwo/WebsitesForStudents.svg)](https://travis-ci.org/Xuanwo/WebsitesForStudents)
 
