@@ -1,4 +1,4 @@
-## 大学生网站集合
+## 大学生网站集合- An amazing progect
 
 [![Build Status](https://travis-ci.org/Xuanwo/WebsitesForStudents.svg)](https://travis-ci.org/Xuanwo/WebsitesForStudents)
 
