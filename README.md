@@ -242,6 +242,8 @@
   * [RUNOOB菜鸟教程](http://www.runoob.com/)
   * [51CTO学院](http://edu.51cto.com/?wwwdh0)
   * [PHP中文网](http://www.php.cn/)
+  * [Tuts+](https://tutsplus.com/)
+  * [Web Fundamentals](https://developers.google.com/web)
 
 * 在线编程练习
 
@@ -253,6 +255,7 @@
   * [PAT](https://www.patest.cn/)
   * [freeCodeCamp *FreeCodeCamp，像打魔兽一样学编程！*](https://freecodecamp.cn/)
   * [Lintcode](http://www.lintcode.com/zh-cn/problem/)
+  * [CodeWars](https://www.codewars.com/)
 
 * 视频教学
 
@@ -279,6 +282,8 @@
   * [Doit.im](http://doit.im/)
   * [滴答清单](https://www.dida365.com/)
   * [Things 3](https://culturedcode.com/things/)
+  * [Notion](https://www.notion.so/)
+  * [OneNote](https://www.onenote.com/)
 <div id="1.6"></div>
 
 ### 社交应用
@@ -317,6 +322,8 @@
     * [dribbble 设计相关](https://dribbble.com/)
     * [iconfont icon图标下载](http://www.iconfont.cn)
     * [Canvas](https://www.canva.com/)
+    * [icons8](https://icons8.com/illustrations)
+    * [Undraw](https://undraw.co/illustrations)
 
 * 电子书籍
     * [PDF 之家](http://www.pdfzj.cn/)
@@ -408,6 +415,7 @@
 * 阅读分享
 
   * [goodreads *国外版的豆瓣*](http://www.goodreads.com/)
+  * [Medium](https://medium.com/)
 
 * 书法艺术
 
@@ -496,6 +504,7 @@
   * [Dash API离线查询工具 only for mac](https://kapeli.com/dash)
   * [Alfred  非常好的效率工具，不仅仅适用于编程开发](https://www.alfredapp.com)
   * [Mou mac上非常棒的MarkDown编辑器](http://25.io/mou/)
+  * [GDB online Debugger](https://www.onlinegdb.com/)
 
 * 测试工具
 
@@ -533,6 +542,7 @@
     * [Boyd Wang's blog](http://www.boydwang.com/)
     * [服务器运维与网站架构|Linux运维|X研究](http://www.ha97.com/)
     * [Wizey 的博客](http://wenshixin.gitee.io/blog/)
+    * [TheHackerNews](https://thehackernews.com/)
 
   * 前端开发
 
