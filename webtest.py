@@ -1,5 +1,6 @@
 # !/usr/bin/python3
 # -*- coding: utf-8 -*-
+#This is for hactoberfest. Please dont delete
 
 """
 This script is used to test websites' accessibility
