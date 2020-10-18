@@ -284,6 +284,11 @@
   * [Things 3](https://culturedcode.com/things/)
   * [Notion](https://www.notion.so/)
   * [OneNote](https://www.onenote.com/)
+  * [Evernote](https://evernote.com/)
+  * [Todoist](https://todoist.com/)
+  * [Any.do](https://www.any.do/)
+  * [Tick Tick](https://ticktick.com/)
+
 <div id="1.6"></div>
 
 ### 社交应用
@@ -307,7 +312,6 @@
 * 外剧社区
 
   * [天涯小筑 *您通向英语电视世界的中文门户*](http://tvfantasy.net/)
-    * [TED2Srt *TED视频字幕下载*](https://ted2srt.org/)
 
 <div id="1.8"></div>
 
@@ -324,6 +328,8 @@
     * [Canvas](https://www.canva.com/)
     * [icons8](https://icons8.com/illustrations)
     * [Undraw](https://undraw.co/illustrations)
+    * [FDR](https://freedesignresources.net/)
+    * [Envato Elements](https://elements.envato.com/)
 
 * 电子书籍
     * [PDF 之家](http://www.pdfzj.cn/)
@@ -570,6 +576,8 @@
     * [Evi1m0 *安全圈的大牛*](http://evilsay.cc/)
     * [Hacker Soul](http://www.hackersoul.com/)
     * [黑客与极客](http://www.freebuf.com/)
+    * [Hacker Noon](https://hackernoon.com/)
+    * [KitPloit](https://kitploit.com/)
 
 
 * 娱乐工具
