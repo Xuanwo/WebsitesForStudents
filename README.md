@@ -288,6 +288,7 @@
   * [Todoist](https://todoist.com/)
   * [Any.do](https://www.any.do/)
   * [Tick Tick](https://ticktick.com/)
+
 <div id="1.6"></div>
 
 ### 社交应用
@@ -311,7 +312,6 @@
 * 外剧社区
 
   * [天涯小筑 *您通向英语电视世界的中文门户*](http://tvfantasy.net/)
-    * [TED2Srt *TED视频字幕下载*](https://ted2srt.org/)
 
 <div id="1.8"></div>
 
@@ -422,7 +422,6 @@
 
   * [goodreads *国外版的豆瓣*](http://www.goodreads.com/)
   * [Medium](https://medium.com/)
-  * [Archive](https://archive.org/)
 
 * 书法艺术
 
