@@ -256,6 +256,7 @@
   * [freeCodeCamp *FreeCodeCamp，像打魔兽一样学编程！*](https://freecodecamp.cn/)
   * [Lintcode](http://www.lintcode.com/zh-cn/problem/)
   * [CodeWars](https://www.codewars.com/)
+  * [hackerearth](https://www.hackerearth.com/practice/)
 
 * 视频教学
 
