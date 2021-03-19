@@ -527,8 +527,6 @@
 
   * ACM/ICPC竞赛
 
-    * [kuangbin博客](http://www.kuangbin.net/)
-    * [陈立杰博客](http://wjmzbmr.com/)
     * [Barty's Blog](http://barty.ws/)
     * [巫泽俊博客 *ACM/ICPC 世界冠军*](http://blog.watashi.ws/)
     * [陈伟杰博客](http://edward-mj.com/)
