@@ -289,6 +289,7 @@
   * [Todoist](https://todoist.com/)
   * [Any.do](https://www.any.do/)
   * [Tick Tick](https://ticktick.com/)
+  * [Taskade](https://www.taskade.com/)
 
 <div id="1.6"></div>
 
