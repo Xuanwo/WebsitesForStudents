@@ -112,6 +112,7 @@
 
     * [NoodleTools](http://www.noodletools.com/index.php)
     * [Citation Machine](http://www.citationmachine.net/)
+    * [Bibcitation](https://www.bibcitation.com/)
 
   * ISBN
 
